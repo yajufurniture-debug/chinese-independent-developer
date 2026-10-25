@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 25 号添加
+#### Qovia - [Github](https://github.com/qovia)
+* :white_check_mark: [Qovia](https://qovia.ai/zh/)：中文社媒公开数据 API，一个 Key 拿到抖音、小红书、微博、B 站、快手、知乎、淘宝/京东评论等 20 多个平台的帖子、评论、达人资料和热榜，统一 JSON 格式；也可作为 MCP 接入 Claude、Cursor 等 AI 助手，空结果和失败不收费，新用户送 50 次试用
+
 ### 2026 年 10 月 24 号添加
 #### reAPI - [Github](https://github.com/reAPIAI)
 * :white_check_mark: [SeedRouter](https://seedrouter.ai/)：图像、视频、语言、音频模型聚合到一个 API Key，按次计费，失败请求不计费
@@ -771,11 +775,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 #### AstroPixelian - [Github](https://github.com/AstroPixelian)
 * :white_check_mark: [CoderPlan](https://coderplan.ai)：LLM API 中转网关，OpenAI 兼容接口，一行配置接入 Claude Code / Codex CLI / Gemini CLI，新用户免费额度，按量付费，支持支付宝/微信
-
-### 2026 年 4 月 30 号添加
-
-#### KevinGong2013(上海) - [Github](https://github.com/KevinGong2013)
-* :white_check_mark: [apkgo](https://github.com/KevinGong2013/apkgo)：Android APK 多渠道分发 CLI，一条命令并发上传到华为 / 小米 / OPPO / vivo / 荣耀 / 应用宝 / Google Play / Samsung / 蒲公英 / fir.im 等 10+ 应用市场，支持 Web GUI、Go 库调用与上传前后 Shell Hook
 
 ### 2026 年 4 月 10 号添加
 

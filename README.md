@@ -24,6 +24,29 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 28 号添加
+
+#### guetyitudabian - [Github](https://github.com/guetyitudabian)
+* :white_check_mark: [JoJo Characters](https://jojocharacters.com/)：独立的《JOJO的奇妙冒险》人物百科，按部数和作品浏览人物、已有配图与替身资料，支持姓名和别名搜索，附来源及剧情防剧透
+
+#### Koroo - [Github](https://github.com/CClishan)
+* :white_check_mark: [ZoopFizz](https://zoopfizz.com/)：选模板或写提示词，上传照片或输入文字，在同一积分工作区用 Seedance / Veo / Wan 等模型生成 TikTok/Reels 短视频；草稿免费，新验证账号送 100 积分（30 天），月付从 $29.99 起 - [模型与积分](https://zoopfizz.com/models.md)
+
+#### Nolan - [Github](https://github.com/NolanSoloBuilder)
+* :white_check_mark: [铝构AI BeamJoin](https://forgepane.com)：在线铝型材设计工具，用自然语言辅助搭建和修改桌架、工作台、置物架等三维方案，并整理型材切割长度、材料与加工清单，支持 PDF、Excel 导出
+
+#### yt1988 - [Github](https://github.com/yt1988)
+* :white_check_mark: [Me2Cloud](https://m2c.1ms.dog)：云服务器延迟测试工具，打开网页就能测你家网络到 AWS、阿里云等 17 家云厂商 361 个区域的延迟、抖动和丢包，买服务器前先挑最快的区域，免费开源无需注册
+
+#### wujieli - [Github](https://github.com/wujieli0207)
+* :white_check_mark: [Make Dime Dime Baby](https://makedimedimebaby.com)：一张照片生成约 10 秒 9:16 Dime Dime Baby 派对舞蹈短视频，浏览器直接用、不带水印（独立工具，非官方）；新账号 1 条免费，之后 1 条 $9.99、3 条 $24.99
+
+#### Peacoke - [Github](https://github.com/Peacoke)
+* :white_check_mark: [Squishy Paper](https://squishypaper.com/)：免费可打印的纸捏捏（Paper Squishy）手工图纸库，支持 4 种语言，单页包含正反面与剪裁线，可直接下载 PDF 与涂色线稿
+
+#### rudy2steiner - [Github](https://github.com/rudy2steiner)
+* :white_check_mark: [ReclipMuse](https://www.reclipmuse.com)：上传 1–3 张照片，选择 Hotel Lobby、Burning Bridges、Fireline 等效果，生成 5–30 秒 AI 说唱短视频（独立工具，非官方）；一次性积分包 $4.90 起
+
 ### 2026 年 10 月 27 号添加
 
 #### xianyu110 - [Github](https://github.com/xianyu110)
@@ -94,7 +117,7 @@
 * :white_check_mark: [YIX](https://yix.ai)：AI 图像与视频创作网站，在同一工作台完成图像生成、视频生成、修图、老照片修复和商品视觉制作；生成按积分付费，提供免费提示词工具，注册不赠送积分
 
 #### hankok - [Github](https://github.com/hankok)
-* :white_check_mark: [Wave Radar](https://waveradar.us)：美股、A股、港股研究工具，全市场扫描等浪/斐波那契扩展与缠论买卖点，附期权 Gamma 敞口、合理估值、13F 和社区恐惧贪婪指数；免费账号可用全市场筛选器和任意标的的等浪/缠论图 - [每日复盘](https://waveradar.us/zh/daily)
+* :white_check_mark: [Wave Radar](https://waveradar.us)：美股、A股、港股研究工具，全市场扫描 75 个技术信号并给出每个信号在 7000 多只股票上的历史胜率，附期权 Gamma 敞口、合理估值、13F 和社区恐惧贪婪指数；免费账号可用全市场筛选器 - [每日复盘](https://waveradar.us/zh/daily)
 
 #### zhangwenhao66 - [Github](https://github.com/zhangwenhao66)
 * :white_check_mark: [Ideoy](https://ideoy.ai)：用一张自拍重制本周热门梗视频模板，AI 生成竖屏短视频；免费增值，仅限成年人，输出内容标注 AI 生成
@@ -5272,33 +5295,6 @@
 
 #### Christine(上海) - [Github](https://github.com/liuyinjiwen06)
 * :white_check_mark: [Addsubtitle](https://addsubtitle.ai/)：视频一键翻译编辑加字幕，超高效视频处理，精准翻译，还原情感；语音克隆与自然配音；自动字幕生成，高效省时；即时在线编辑
-
-### 2025 年 5 月 9 号添加
-#### samzong(上海):
-* :white_check_mark: [TabBoost（Chrome 扩展）](https://chromewebstore.google.com/detail/tabboost/pnpabkdhbbjmahfnhnfhpgfmhkkeoloe)： 提高浏览器标签效率，灵感来自 Arc 浏览器和开发者的实际体验 - [更多介绍](https://github.com/samzong/chrome-tabboost)
-
-#### jzhone(佛山) 
-* :white_check_mark: [Best Bra Size Calculator](https://bestbrasizecalculator.com)：根据体态计算用户适合穿戴什么文胸以及相关保养提示
-
-#### Alex Li(苏州) 
-* :white_check_mark: [信风 AI 外贸获客智能体](https://www.trade-wind.co)：每周 AI 全网实时搜索获取高质量线索，自动化拓展终端客户/经销商/合作伙伴，快速布局海外市场 - [更多介绍](https://www.trade-wind.co/compare)
-
-#### underwoodxie - [Github](https://github.com/underwoodxie)
-* :white_check_mark: [Free AI Beauty Test](https://aibeautytest.org/): AI 颜值测试，提供给你个性化的建议
-
-### 2025 年 5 月 7 号添加
-#### jerrybi(深圳) - [Github](https://github.com/jerrybi)
-* :white_check_mark: [AI Doll Generator](https://ai-doll-generator.net)：使用 AI 技术将人像转成玩具盒子风格！
-
-#### Caron77 - [Github](https://github.com/Caron77ai)
-* :white_check_mark: [4oimg.org](https://4oimg.org)：基于 OpenAI 最新图像技术的创作平台，支持多风格生成和精确文本渲染的 AI 绘图工具
-
-### 2025 年 5 月 6 号添加
-#### yiquan00 - [GitHub](https://github.com/yiquan00)
-* :white_check_mark: [Notion style illustration](https://illustration.imglab.dev)：专注于 Notion 风格插画生成网站，一句话提示词就能生成 Notion 风格插画/Flat style illustration 
-
-#### Bobo Cao(合肥) - [Github](https://github.com/bo0-bo0), [博客](https://indiepa.ge/bo0bo0)
-* :white_check_mark: [Labubu Wallpaper](https://labubuwallpaper.com/)：下载 4K Labubu 壁纸，针对 iPhone, 笔记本和移动设备优化
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

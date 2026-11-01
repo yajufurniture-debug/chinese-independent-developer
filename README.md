@@ -24,6 +24,43 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 1 号添加
+
+#### Jeff Song - [About](https://trustbible.org/en/about/)
+* :white_check_mark: [TrustBible Bible Word Counter](https://trustbible.org/zh-cn/bible-word-counter/)：KJV 与和合本全文词频统计，输出命中经文、旧约/新约分部计数并支持 CSV 导出；中英双语界面，无需注册，按字面字符匹配、不做神学解释
+
+#### xuantingjiang39 - [Github](https://github.com/xuantingjiang39)
+* :white_check_mark: [旅伴 TripMate](https://111.230.133.155/)：家庭出游 AI 行程工具，按目的地、预算和同行需求整理可编辑的每日安排、交通与费用，网页和 Windows 可导出 PDF；支持网页、Windows 和安卓（Beta），游客预览第 1 天，AI 生成使用额度 - [介绍与下载](https://github.com/xuantingjiang39/TripMate)
+
+#### clarkloveProduct - [Github](https://github.com/clarkloveProduct)
+* :white_check_mark: [听笺](https://tingjian.art/)：粘贴中英文文章或导入公众号链接，自动提炼 AI 文字要点，点击后生成语音，先听重点再听原文，支持倍速播放、七天账号记录和跨设备续听
+
+#### tumingke0 - [Github](https://github.com/tumingke0)
+* :white_check_mark: [DisconfirmAI](https://disconfirmai.com/zh)：AI 投资研究与阅读平台，下结论前先找可能推翻自己判断的证据。每天整理公开来源的 AI 与投资资讯，每条附原文链接；可以对着财报和数据做研究，让雷达按你写下的条件定时扫描变化，也能写下自己的投资体系，另有 AI 100 榜单和产业地图。阅读和投资体系永久免费，注册送 400 积分，不提供买卖建议
+
+#### z4none - [Github](https://github.com/z4none)
+* :white_check_mark: [Kyna Player](https://kyna.fynxlab.com/)：Windows 视频播放器，支持 GPU 播放、DLSS 画质增强和 AI 字幕工具
+
+#### kian - [Github](https://github.com/BossChow)
+* :white_check_mark: [Logo Animation AI](https://logoanimationai.com/)：上传静态 Logo，选择动效模板或用文字描述效果，生成用于品牌展示、视频片头和社交媒体的 Logo 动画，无需掌握剪辑或关键帧
+
+#### szj2ys - [Github](https://github.com/szj2ys)
+* :white_check_mark: [Pic2SVG](https://pic2svg.com/)：上传普通图片（JPG/PNG 等），转成可编辑的 SVG 路径，浏览器本地运行、文件不上传，2 MB 以内免费无需注册，另附 SVG 结构检查器 - [SVG checker](https://pic2svg.com/svg-cut-file-checker/)
+* :white_check_mark: [Big Walk Guide](https://thebigwalk.world/en/protocols)：Big Walk 非官方中英攻略，浏览器内信号码规划器、坐标查询与谜题 walkthrough，免费无需注册
+* :white_check_mark: [imgmov Image Prep](https://imgmov.com/resize-image-for-ai-video)：浏览器内图片预处理工具，为 AI 视频首帧裁剪或补边到指定比例，本地导出 JPEG / PNG，免费、无需注册
+
+#### Li Wen - [Github](https://github.com/wenliabc2007)
+* :white_check_mark: [Roam Radio](https://roamradios.com/)：全球网络电台目录与播放器，按国家、音乐流派、语言或在 3D 地球上找台，浏览器直接收听，每个电台有独立详情页，免费无需注册
+
+#### 湾区AI日历(广东) - [Github](https://github.com/tgchtggn29-bit)
+* :white_check_mark: [湾区 AI 日历](https://wqai.ltd/)：粤港澳大湾区 AI 活动与赛事日历，把深圳、广州、中国香港、东莞、珠海的 AI 大会、行业沙龙和黑客松按城市和日期排好，每天核对一次，每场都带主办方与官方报名入口，可一键订阅到手机日历
+
+#### LinMoQC - [Github](https://github.com/LinMoQC)
+* :white_check_mark: [Magic Resume](https://www.magic-resume.cn/)：开源 AI 简历工作台，支持实时预览、按目标岗位获取建议，逐条采纳或跳过 AI 修改；提供中英文、可自定义模板及 PDF/JSON 导出，云端版提供免费和付费计划 - [源码](https://github.com/Magic-Resume/Magic-Resume)
+
+#### Linky - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [ReferralCodes Canada](https://referralcodescanada.com/)：加拿大推荐码与注册奖励目录，查找、比较并分享各种服务的推荐码，了解奖励详情、资格要求和分享规则，帮助用户在加拿大获取更多优惠
+
 ### 2026 年 10 月 31 号添加
 
 #### 18841144913 - [Github](https://github.com/18841144913)
@@ -5224,48 +5261,6 @@
 * :white_check_mark: [AIHuntList](https://aihuntlist.com/)：发现最佳 AI 产品和工具的搜索导航
 * :white_check_mark: [NestSaaS](https://nestsaas.com): 构建内容驱动的网站和SaaS应用的现代框架，配备强大的管理工具
 * :white_check_mark: [SnapReader](https://chromewebstore.google.com/detail/snapreader/mogfnnfmcbchdciddfejbkfgahklegpp)：立即快速保存在线内容，稍后轻松阅读，SnapReader 是一款轻量级的浏览器扩展，旨在帮助你以最小的阻力捕获在线内容
-
-### 2025 年 5 月 29 号添加
-#### Charlie(上海) - [Github](https://github.com/weight567)
-* :white_check_mark: [Transmonkey](https://www.transmonkey.ai/)：所有您所需的翻译工具，一应俱全 - [更多介绍](https://www.transmonkey.ai/faq)
-* :white_check_mark: [TeachAny](https://www.teachany.com/)：使用 TeachAny AI 工具，简化您的教学 - [更多功能](https://www.teachany.com/tools)
-* :white_check_mark: [Imgkits](https://www.imgkits.com/)：全能 AI 图像、视频编辑器：使用 Imgkits 创建令人惊艳的照片和视频 - [更多功能](https://www.imgkits.com/create/image)
-
-#### zane - [Github](https://github.com/littleblackone)
-* :white_check_mark: [AgentHunter](https://www.agenthunter.io/)：每日更新的 AI Agent 目录和新闻
-
-
-### 2025 年 5 月 28 号添加
-#### Lingglee - [Github](https://github.com/lingglee)
-* :white_check_mark: [English Daily](https://englishdaily.ai/)：AI 每日英语学习平台
-
-### 2025 年 5 月 26 号添加
-#### 羊上上(杭州) - [Github](https://github.com/yangbishang/)
-* :white_check_mark: [AI 今日热榜](https://aihot.today)：汇集全球顶尖来源的最新 AI 新闻、研究和趋势，为您节省宝贵时间
-
-### 2025 年 5 月 25 号添加
-#### 3d-animation - [Github](https://github.com/3d-animation)
-- :x: [buzz-cut AI](https://buzz-cut.me)：上传您的照片，用 AI 变成"寸头"(buzz cut）发型。预览发型效果
-
-##### Sarkory(广州)
-- :white_check_mark: [Veo 3 AI](https://veo3ai.org)：Veo 3 AI 视频生成
-
-### 2025 年 5 月 22 号添加
-#### Sawana Huang
-* :white_check_mark: [Board Foot Calculator](https://boardfootcalculator.cc/)：简便的在线版英尺计算器，用来计算木材的体积和对应的价格，面向木工爱好者，或者要购买木材的买家
-
-#### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
-* :white_check_mark: [mksaas.com](https://mksaas.com)：最好的 AI SaaS 模板，只需1个周末就可以上线你的 AI SaaS
-
-### 2025 年 5 月 21 号添加
-#### Axis Wang(深圳) - [Github](https://github/wangxs404)
-* :white_check_mark: [video2ppt.com](https://video2ppt.com)：将任意来源的视频转换为 PPT 演示文档
-
-#### Rns - [Github](https://github.com/rnsss)
-* :white_check_mark: [AI Doll](https://ai-doll.online/)：用 AI 将人像照片转换成玩具人偶
-
-#### hanlaoshinb - [Github](https://github.com/hanlaoshinb)
-* :white_check_mark: [TarotDreamHub](https://www.tarotdreamhub.com/)：免费 AI 塔罗牌占卜。想好您想占卜的问题，在线抽牌后就可以一键解牌啦！
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

@@ -24,6 +24,28 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 3 号添加
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [Hookai](https://hookai.io/)：上传一张或两张人物照片，生成带人声演唱与节拍的竖屏说唱短视频，5-15 秒，无需剪辑；示例免费观看，实际生成需注册和点数
+
+#### fan3cn - [Github](https://github.com/fan3cn)
+* :white_check_mark: [BayesChat](https://bayeschat.xyz)：iPhone / iPad 上的 AI 聊天客户端，自带 API Key 接任意 OpenAI / Anthropic 兼容模型（含本机 Ollama），可挂远程 MCP 服务器调用工具；对话和 Key 只存本机、无需注册，MCP 工具属一次性买断
+
+#### Lucius Miao - [Github](https://github.com/suicuLsi)
+* :white_check_mark: [Linger](https://withlinger.com/zh/)：macOS 本地优先私人灵感库，保存图片、网页出处与自己的笔记，用关键词和筛选找回参考；支持 Apple Silicon，提供 14 天试用，之后一次性购买 - [在线体验](https://withlinger.com/demo/)
+
+#### Wen - [Github](https://github.com/coderWenzi)
+* :white_check_mark: [Clarpex](https://clarpex.ai/)：AI 照片修复工具，上传模糊、低清或老照片即可增强、去模糊、放大与上色，浏览器内完成，每日免费额度无需注册
+
+#### phinn - [Github](https://github.com/phinn)
+* :white_check_mark: [KinetMagicDisk](https://apps.apple.com/cn/app/id6813423397)：Mac 磁盘空间清理 App，可视化查看磁盘占用、快速定位大文件并安全清理，本地处理不上传数据 - [更多介绍](https://apps.apple.com/cn/app/id6813423397)
+* :white_check_mark: [KinetFlashFind](https://apps.apple.com/cn/app/id6808698046)：Mac 文件搜索 App，按名称或内容秒级定位文件并支持预览，本地索引不上传数据 - [更多介绍](https://apps.apple.com/cn/app/id6808698046)
+* :white_check_mark: [DriftDesk](https://apps.apple.com/cn/app/id6817377455)：Mac 专注氛围声 App，内置雨声、白噪等声景与极简桌面组件，帮助专注与放松 - [更多介绍](https://apps.apple.com/cn/app/id6817377455)
+
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [绘页](https://huiye.org)：生成绘本轮播视频，把文字做成一页一页切换的竖屏故事，30 多种手绘风格 — Web 应用 - [更多介绍](https://huiye.org/zh/about)
+
 ### 2026 年 11 月 2 号添加
 
 #### 88slash(北京) - [Github](https://github.com/88slash)
@@ -393,7 +415,7 @@
 #### fisher-byte - [Github](https://github.com/fisher-byte)
 * :white_check_mark: [AjaxModel Release Tracker](https://ajaxmodel.dev/)：Ajax 模型发布追踪站，汇总官方来源、发布时间线和本地运行指南，免登录查看；非官方项目，不提供未发布模型的权重下载
 
-#### 蚊子 - [Github](https://github.com/coderWenzi)
+#### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [SongFromVideo](https://songfromvideo.com/)：视频识曲工具，粘贴 TikTok/YouTube/Instagram/Facebook/X 链接或上传音视频就能找出背景音乐，登录后首次识别免费
 
 ### 2026 年 10 月 20 号添加
@@ -1299,7 +1321,7 @@
 * :white_check_mark: [DTCwise](https://dtcwise.com/?utm_source=cnindie&utm_medium=github)：DTC/跨境电商独立站卖家的运营工具目录与评测站，数据驱动收录 104 个工具（Sellvia、Mangools、Spocket 等），含对比评分与佣金返利链接，免费无需注册
 * :white_check_mark: [CrossTool](https://crosstool.online/?utm_source=cnindie&utm_medium=github)：跨境卖家本地隐私工具箱，52 个工具 100% 在浏览器内运行（视频压缩、图片转 PDF、成本计算等），零上传零服务器，面向 Amazon/TikTok Shop/Shopify 卖家，免费无需注册
 
-#### coderWenzi - [Github](https://github.com/coderWenzi)
+#### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [Gemini Omni](https://geminiomni.video/)：免费生成和编辑视频，保持角色一致性，音频同步
 
 
@@ -1640,7 +1662,7 @@
 #### PigFetch Team - [Github](https://github.com/my-name-7)
 * :white_check_mark: [PigFetch](https://pigfetch.com)：Windows 视频链接下载工具，粘贴分享链接后可选择可用画质下载到电脑，适合素材留存与本地整理；新用户注册可使用 100 次，会员可无限下载
 
-#### 蚊子 - [Github](https://github.com/coderWenzi)
+#### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [VidLux AI](https://vidlux.ai/)：AI 视频生成与编辑平台，支持文生视频、图生视频、参考生视频和视频编辑
 
 ### 2026 年 8 月 4 号添加
@@ -2741,7 +2763,7 @@
 
 ### 2026 年 5 月 15 号添加
 
-#### Poge(广州) - [Github](https://github.com/coderWenzi)
+#### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [GPT Image 2 AI](https://gptimage2app.com/)：AI 图像与视频创作平台
 
 #### zjg678 - [Github](https://github.com/zjg678)

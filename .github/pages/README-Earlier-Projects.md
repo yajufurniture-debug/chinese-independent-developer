@@ -6,6 +6,100 @@
 
 ---
 
+### 2025 年 6 月 25 号添加
+#### DT986(深圳) 
+* :white_check_mark: [Amazon Downloader](https://www.leawo.org/save-video/)：Amazon 的点播视频下载工具
+* :white_check_mark: [免费的5合1播放器软件](https://www.leawo.com/)：可播放 4K 蓝光、蓝光、DVD、视频与音频
+#### HongZhong(北京)
+* :white_check_mark: [Kmail临时邮箱](https://kmail.pw/)：免费安全的临时邮箱，保护您的个人隐私，告别广告垃圾邮件的骚扰
+
+### 2025 年 6 月 24 号添加
+#### Poiybro
+* :white_check_mark: [My Ringtone](https://myringtone.app/zh-cn/)：免费无注册的 100w+ 铃声资源 在线下载工具，只要你想要，没有你搜不到的铃声 - [更多介绍](https://myringtone.app/zh-cn/about)
+
+### 2025 年 6 月 23 号添加
+#### wtechtec(深圳) - [Github](https://github.com/WtecHtec), [博客](https://iam.xujingyichang.top/)
+* :white_check_mark: [whisperkeyboard](https://whisperkeyboard.app/)：灵动岛 + LLM + whisper 语音输入
+
+#### zhucm - [Github](https://github.com/zhucm)
+* :white_check_mark: [金句盲盒](http://jinju.yotooapp.com)：趣站，页面定时随机推荐一条影视、歌曲或书籍等精彩文字内容，自定义配图或AI生成配图，可复制链接或创建卡片分享。
+
+### 2025 年 6 月 22 号添加
+#### Horatio (广州)
+* :white_check_mark: [Labubu Live Wallpaper](https://labubulivewallpaper.cc)：专为 Labubu 爱好者打造的免费高清动态壁纸宝库，收录超过100款动态壁纸，让可爱的 Labubu 在你的屏幕上动起来，网站提供免费下载获取精美动画 Labubu 动态壁纸设计，并适用于所有设备。
+
+### 2025 年 6 月 21 号添加
+#### z3674313
+* :white_check_mark: [WhatsMyName](https://whatsmyname.me/)：在互联网上搜索用户名足迹的网站。它可覆盖主流社交媒体、论坛、代码托管平台等进行全局搜索，借助高效算法快速出结果 - [更多介绍](https://whatsmyname.me/about)
+
+#### james(杭州)
+* :white_check_mark: [asmrvideo.ai](https://asmrvideo.ai/): 用 Veo3 生成高质量的 ASMR 视频
+
+#### DeepBlue-杭州
+* :x: [AI Rap Generator](https://rapgenerator.io/)：Rap 歌曲生成器
+
+#### kkkk-杭州
+* :white_check_mark: [Vogue Veo 3 Generator](https://www.vogueai.net/veo-3-generator)：最便宜的 Veo3 文本生成视频
+
+#### leo(上海)
+* :white_check_mark: [Coast FIRE Calculator](https://coast-fire-calculator.com/)：退休储蓄计算器
+
+#### monsoonw(杭州)
+* :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co)：聚合所有主流 AI 图片生成模型，无需登录使用 - [更多介绍](https://github.com/free-ai-image-generator/Free-AI-Image-Generator)
+
+#### DamonTsang986(深圳) 
+* :white_check_mark: [CleverGet Free Recorder](https://www.leawo.org/cleverget-recorder/)：免费录制在线视频并可过滤广告的工具
+* :white_check_mark: [免费录屏器](https://www.leawo.com/free-screen-recorder/)：4 合 1 屏幕录制软件（免费）
+
+### 2025 年 6 月 19 号添加
+#### smkwls(深圳) - [Github](https://github.com/smkwls)
+* :white_check_mark: [sound effect generator](https://soundeffectgenerator.org/)：音效生成网站, 生成自定义音效
+* :white_check_mark: [Lip Sync](https://lipsync.studio/)：视频和音频嘴形同步，将视频中人的嘴形进行改变以适配音频
+* :white_check_mark: [Quit Porn AI](https://quitporn.ai/)：帮助人们戒除色情成瘾
+
+#### vladelaina - [Github](https://github.com/vladelaina), [博客](https://vladelaina.com/blog)
+* :white_check_mark: [Catime](https://github.com/vladelaina/Catime)：极致轻量的 Windows 倒计时工具，具有番茄工作法功能、透明界面和丰富自定义选项，只需几 MB 内存且几乎不占用 CPU 资源，便可在 Windows 上优雅掌控时间 - [更多介绍](https://vladelaina.github.io/Catime/)
+
+### 2025 年 6 月 18 号添加
+#### Caron77 - [Github](https://github.com/Caron77ai)
+* :white_check_mark: [Veo3 AI Video Generator](https://veo-3.art)：支持文本转视频和图像转视频，配备原生音频生成和精准唇形同步，2-5秒完成专业级视频创作。
+* :white_check_mark: [Flux Kontext AI Image Editor ](https://flux-kontext.xyz)：基于 Black Forest Labs 多模态技术的专业图像转换工具，支持风格迁移、背景替换等功能，2-5秒完成高质量编辑。
+
+#### LuSrackhall(深圳) - [Github](https://github.com/LuSrackhall)
+* :white_check_mark: [KeyTone](https://keytone.xuanhall.com/)：简单易用、高度可定制的开源按键声音应用，帮助你通过载入自制音频打造独一无二的键音体验，支持多合一 ***高级声音*** 的随机或顺序触发，支持 ***高级声音*** 间的 ***组合与继承***，力求每次敲击都充满创意，释放你的键音艺术。 - [更多介绍](https://github.com/LuSrackhall/KeyTone)
+
+#### md2card (深圳) - [Github](https://github.com/JsonChao)、[博客](https://juejin.cn/user/4318537403878167/posts)
+* :white_check_mark: [md2card](https://www.md2card.online/)：MD2Card 在线工具，支持多主题，一键将 Markdown 拆分并生成知识卡片，支持 AI 魔幻卡片和长文智能拆分功能，可编辑，可导出 PNG/SVG/PDF，适合笔记分享与社媒传播
+
+#### Alex - [Github](https://github.com/C-Jeril)
+* :white_check_mark: [Kuakua夸夸](https://kuakua.app/)： 全网最全的心理学资源网站，用简单心理学与AI工具带来幸福激发内在力量 | 成为更好的自己 | 简单心理学，目前还在持续更新中，做更多可体验的心理学内容 - [更多介绍](https://github.com/C-Jeril/kuakua)
+
+### 2025 年 6 月 16 号添加
+#### handsometom
+* :white_check_mark: [Labubu Wallpaper](https://labubulivewallpaper.com/)：下载高级 Labubu 动态壁纸合集，免费获取精美动画 Labubu 动态壁纸设计。适用于所有设备的高品质 Labubu 动态壁纸，动画流畅。
+
+### 2025 年 6 月 13 号添加
+#### Anna - [Github](https://github.com/fluxstrive)
+* :white_check_mark: [Seedance AI Video Generator](https://seedanceai.net/)：用 文字/图片 生成视频，Seedance AI 将您的想法转化为令人惊叹的视频（Seedance 1.0 Pro 模型）
+
+### 2025 年 6 月 12 号添加
+#### sing1ee - [Github](https://github.com/sing1ee)
+* :white_check_mark: [Random Letter Generator](https://randomlettergenerator.app/)：随机生成指定数量的序列,适用密码生成、游戏开发中的随机元素序列等等
+
+#### TuShenmei - [Github](https://github.com/TuShenmei-xiannv)
+* :white_check_mark: [职场沟通小诸葛](https://procommai.com/)：告别职场说错话焦虑，AI助你掌握高效沟通技巧，提升职场表达力。  
+如果你是以下人群，那么职场沟通小诸葛将是你的得力助手：  
+职场新人/下属：面对领导和前辈，常常在汇报工作、提出请求时感到压力，担心言辞不妥，显得不专业或冒犯。  
+团队管理者/上级：需要向下属布置任务、提供反馈甚至批评，希望能做到既清晰有力，又不打击团队士气。  
+跨部门协作者：在与不同背景的同事沟通时，需要频繁切换沟通风格，以确保信息准确传达，并推动项目顺利进行。  
+所有追求高效的职场人：厌倦了将宝贵的时间浪费在遣词造句的内耗上，希望将精力聚焦于更有创造性的核心工作。  
+
+#### Anna - [Github](https://github.com/fluxstrive)
+* :white_check_mark: [Veo3 AI](https://aiveo3.net/)：根据文本提示或图像生成专业视频（使用 Veo3），并提供本地音频和逼真的物理效果
+
+#### chasays
+* :x: [veo3 AI video generator](https://zacose.com/veo3_ai_video_generator)：通过 AI 生成的音频和视觉完全同步，效果彻底改变视频的创作，使用VEO 3 AI API解锁视频创建的未来 - 与音频同步的无缝视频生成
+
 ### 2025 年 6 月 10 号添加
 #### dfyfc
 * :white_check_mark: [Face To Many](https://facetomany.fun/)：用 AI 把您的脸部照片转换成不同的艺术风格，不同种族，不同角色

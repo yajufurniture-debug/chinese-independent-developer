@@ -24,6 +24,48 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 5 号添加
+
+#### Wujie Li - [Github](https://github.com/wujieli0207)
+* :white_check_mark: [Mandarin Recall](https://mandarinrecall.com)：HSK 3.0 词汇站，2025 考纲每个词带拼音、发音和旧新级别对照；间隔重复免费且不用注册，写自己的句子可以得到 AI 反馈
+
+#### mac nie - [Github](https://github.com/macuns)
+* :white_check_mark: [券到卡包](https://www.quandaokabao.com)：微信电子券制作小程序，面向实体店永久免费做优惠券、券包、次卡；顾客领进卡包，到店扫码核销，不用自己开发
+
+#### air158 - [Github](https://github.com/air158)
+* :white_check_mark: [题伴](https://tiban.momoai.pro/app)：中文截图与文字练习助手，粘贴题目或上传截图，查看编程题、选择题、填空及主观题的答案和解析；需登录，新账号赠送 10 次体验，后续按次付费 - [更多介绍](https://tiban.momoai.pro/)
+
+### 2026 年 11 月 4 号添加
+
+#### Robin Ma - [Github](https://github.com/Maaaaph)
+* :white_check_mark: [OnTrend AI](https://ontrendai.com)：趣味 AI 短视频生成工具，面向普通用户与年轻人，无需编写提示词或掌握剪辑，挑选正在流行的爆款模板并上传 1-2 张照片，即可把静态照片变成带原版音乐与动作卡点的 9:16 搞笑短视频
+
+#### Bowen Guo
+* :white_check_mark: [ResumeInvited](https://resumeinvited.com/)：英文简历制作工具（免费），支持模板、实时预览和 PDF 或可编辑 Word 导出，无需注册
+
+#### Qing Shao - [Github](https://github.com/aloow)
+* :white_check_mark: [Live Face Swap](https://live-face-swap.net/)：在浏览器里用摄像头实时试换脸、画面风格和服装造型，录下片段后可直接回看并下载；摄像头预览免费，实时 AI 生成需登录并消耗积分
+
+#### djyou32 - [Github](https://github.com/djyou32)
+* :white_check_mark: [PosterSheet](https://postersheet.com/)：海报打印工具，将图片拆分成多张纸打印，再拼接成大幅海报，用家用打印机制作墙面装饰和活动海报
+
+#### suio03 - [Github](https://github.com/suio03)
+* :white_check_mark: [Tapemoon](https://tapemoon.com)：AI 音乐视频生成器，上传一首歌（适合 Suno、Udio 生成的 AI 歌曲），自动生成分镜并按人声对齐歌词，渲染前可逐镜修改，可选 Seedance 或 Kling 出 16:9 / 9:16 MV；新用户送免费积分可预览，另有免费的逐字同步歌词视频工具
+
+#### Linhao Cui - [Github](https://github.com/cuilinhao)
+* :white_check_mark: [SoulPaw](https://soulpaw.art/)：在线 AI 宠物写真工具，上传 1–5 张同一只宠物的照片，选择水彩、皇家或影棚风格，生成并下载一幅专属画像
+
+#### Masker99 - [Github](https://github.com/Masker99)
+* :white_check_mark: [FlyingCar AI Video](https://flyingcaraivideo.app/)：AI 飞车视频生成工具，上传汽车或产品照片，选择模板即可生成炫酷的飞行特效视频
+* :white_check_mark: [12 Axes Test](https://12axestest.site/)：在线多维价值观测试（免费），通过回答问题探索自己的政治观点与价值观倾向
+* :white_check_mark: [HackerTube Guide](https://hackertube.top/)：HackerTube 介绍与资源导航站，提供使用指南、常见问题解答及相关项目推荐
+
+#### 熠辉(北京) - [Github](https://github.com/yihui-dev)
+* :white_check_mark: [BizPeel](https://bizpeel.com/zh/)：有真实收入的海外产品数据库，可按 MRR、近 30 天收入、增长速度和赛道筛选，每家都有增长拆解：流量从哪来、做了哪些营销动作、用户为什么付钱，适合找出海生意点子
+
+#### Liujiacheng-yuexin - [Github](https://github.com/Liujiacheng-yuexin)
+* :white_check_mark: [PicYep](https://picyep.com/zh)：上传一张参考照或写一句描述，生成真人感头像、证件照、自拍与宠物写真；注册送免费积分、无需绑卡，付费计划从 $12/月起
+
 ### 2026 年 11 月 3 号添加
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)
@@ -42,6 +84,22 @@
 * :white_check_mark: [KinetMagicDisk](https://apps.apple.com/cn/app/id6813423397)：Mac 磁盘空间清理 App，可视化查看磁盘占用、快速定位大文件并安全清理，本地处理不上传数据 - [更多介绍](https://apps.apple.com/cn/app/id6813423397)
 * :white_check_mark: [KinetFlashFind](https://apps.apple.com/cn/app/id6808698046)：Mac 文件搜索 App，按名称或内容秒级定位文件并支持预览，本地索引不上传数据 - [更多介绍](https://apps.apple.com/cn/app/id6808698046)
 * :white_check_mark: [DriftDesk](https://apps.apple.com/cn/app/id6817377455)：Mac 专注氛围声 App，内置雨声、白噪等声景与极简桌面组件，帮助专注与放松 - [更多介绍](https://apps.apple.com/cn/app/id6817377455)
+* :white_check_mark: [KinetAios](https://apps.apple.com/cn/app/id6809450051)：macOS 本地优先 AI Agent 工作台，多引擎会话、40+ 内置工具、长期记忆，数据全程留在本机，另有同款开源版 - [更多介绍](https://github.com/phinn/KinetAios)
+* :white_check_mark: [KinetBrief](https://apps.apple.com/cn/app/id6782778566)：AI 会议纪要 App，开完会纪要即有，录音转写与要点提取全在本地完成 - [更多介绍](https://apps.apple.com/cn/app/id6782778566)
+* :white_check_mark: [KinetMinutes](https://apps.apple.com/cn/app/id6813593104)：AI 会议记录 App，开完会纪要即有，本地转写不上传 - [更多介绍](https://apps.apple.com/cn/app/id6813593104)
+* :white_check_mark: [KinetMemory](https://apps.apple.com/cn/app/id6815923723)：间隔复习 App，按遗忘曲线安排复习，该忘的才忘 - [更多介绍](https://apps.apple.com/cn/app/id6815923723)
+* :white_check_mark: [KinetStudy](https://apps.apple.com/cn/app/id6797004663)：错题管理 App，错题有人管，家长不用猜 - [更多介绍](https://apps.apple.com/cn/app/id6797004663)
+* :white_check_mark: [KinetMorning](https://apps.apple.com/cn/app/id6779978181)：远程报平安 App，一声平安远程可见 - [更多介绍](https://apps.apple.com/cn/app/id6779978181)
+* :white_check_mark: [Clasp Focus](https://apps.apple.com/cn/app/id6820942179)：专注锁机 App，合上盖子就开始专注 - [更多介绍](https://apps.apple.com/cn/app/id6820942179)
+* :white_check_mark: [M5Chat](https://apps.apple.com/cn/app/id6820196518)：口袋里的多引擎 AI 助手，一个 App 切换多家大模型 - [更多介绍](https://apps.apple.com/cn/app/id6820196518)
+* :white_check_mark: [KinetFit](https://apps.apple.com/cn/app/id6773755689)：健康管理 App，先把身体打开 - [更多介绍](https://apps.apple.com/cn/app/id6773755689)
+* :white_check_mark: [KinetSoul](https://apps.apple.com/cn/app/id6780600464)：AI 心理日记，给情绪一个出口 - [更多介绍](https://apps.apple.com/cn/app/id6780600464)
+* :white_check_mark: [KinetRain](https://apps.apple.com/cn/app/id6814033986)：氛围声 App，想下雨就下雨 - [更多介绍](https://apps.apple.com/cn/app/id6814033986)
+* :white_check_mark: [KinetElf](https://apps.apple.com/cn/app/id6807457522)：口袋宠物精灵，会长大的桌面伙伴 - [更多介绍](https://apps.apple.com/cn/app/id6807457522)
+* :white_check_mark: [KinetTask](https://apps.apple.com/us/app/kinettask-private-ai-tasks/id6780944289)：端侧 AI 任务管理器，数据全程本地 SQLite，不上云不建账号 - [更多介绍](https://apps.apple.com/us/app/kinettask-private-ai-tasks/id6780944289)
+* :white_check_mark: [Promptside](https://apps.apple.com/us/app/promptside/id6820624868)：AI 短片创作台，一个人就是整个剧组 - [更多介绍](https://apps.apple.com/us/app/promptside/id6820624868)
+* :white_check_mark: [FurChart](https://apps.apple.com/us/app/furchart-pet-health-records/id6817339084)：宠物健康记录，毛孩子病历不翻抽屉 - [更多介绍](https://apps.apple.com/us/app/furchart-pet-health-records/id6817339084)
+* :white_check_mark: [DuoFolio](https://apps.apple.com/cn/app/id6823855712)：为折叠屏而生的书 - [更多介绍](https://apps.apple.com/cn/app/id6823855712)
 
 #### my19940202(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [绘页](https://huiye.org)：生成绘本轮播视频，把文字做成一页一页切换的竖屏故事，30 多种手绘风格 — Web 应用 - [更多介绍](https://huiye.org/zh/about)
@@ -5130,100 +5188,6 @@
 
 #### rns
 * :white_check_mark: [Headcanon 生成器 - 创作同人小说创意](https://headcanongenerator.fun/)： 为您喜爱的角色创作独特的同人小说创意
-
-### 2025 年 6 月 25 号添加
-#### DT986(深圳) 
-* :white_check_mark: [Amazon Downloader](https://www.leawo.org/save-video/)：Amazon 的点播视频下载工具
-* :white_check_mark: [免费的5合1播放器软件](https://www.leawo.com/)：可播放 4K 蓝光、蓝光、DVD、视频与音频
-#### HongZhong(北京)
-* :white_check_mark: [Kmail临时邮箱](https://kmail.pw/)：免费安全的临时邮箱，保护您的个人隐私，告别广告垃圾邮件的骚扰
-
-### 2025 年 6 月 24 号添加
-#### Poiybro
-* :white_check_mark: [My Ringtone](https://myringtone.app/zh-cn/)：免费无注册的 100w+ 铃声资源 在线下载工具，只要你想要，没有你搜不到的铃声 - [更多介绍](https://myringtone.app/zh-cn/about)
-
-### 2025 年 6 月 23 号添加
-#### wtechtec(深圳) - [Github](https://github.com/WtecHtec), [博客](https://iam.xujingyichang.top/)
-* :white_check_mark: [whisperkeyboard](https://whisperkeyboard.app/)：灵动岛 + LLM + whisper 语音输入
-
-#### zhucm - [Github](https://github.com/zhucm)
-* :white_check_mark: [金句盲盒](http://jinju.yotooapp.com)：趣站，页面定时随机推荐一条影视、歌曲或书籍等精彩文字内容，自定义配图或AI生成配图，可复制链接或创建卡片分享。
-
-### 2025 年 6 月 22 号添加
-#### Horatio (广州)
-* :white_check_mark: [Labubu Live Wallpaper](https://labubulivewallpaper.cc)：专为 Labubu 爱好者打造的免费高清动态壁纸宝库，收录超过100款动态壁纸，让可爱的 Labubu 在你的屏幕上动起来，网站提供免费下载获取精美动画 Labubu 动态壁纸设计，并适用于所有设备。
-
-### 2025 年 6 月 21 号添加
-#### z3674313
-* :white_check_mark: [WhatsMyName](https://whatsmyname.me/)：在互联网上搜索用户名足迹的网站。它可覆盖主流社交媒体、论坛、代码托管平台等进行全局搜索，借助高效算法快速出结果 - [更多介绍](https://whatsmyname.me/about)
-
-#### james(杭州)
-* :white_check_mark: [asmrvideo.ai](https://asmrvideo.ai/): 用 Veo3 生成高质量的 ASMR 视频
-
-#### DeepBlue-杭州
-* :x: [AI Rap Generator](https://rapgenerator.io/)：Rap 歌曲生成器
-
-#### kkkk-杭州
-* :white_check_mark: [Vogue Veo 3 Generator](https://www.vogueai.net/veo-3-generator)：最便宜的 Veo3 文本生成视频
-
-#### leo(上海)
-* :white_check_mark: [Coast FIRE Calculator](https://coast-fire-calculator.com/)：退休储蓄计算器
-
-#### monsoonw(杭州)
-* :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co)：聚合所有主流 AI 图片生成模型，无需登录使用 - [更多介绍](https://github.com/free-ai-image-generator/Free-AI-Image-Generator)
-
-#### DamonTsang986(深圳) 
-* :white_check_mark: [CleverGet Free Recorder](https://www.leawo.org/cleverget-recorder/)：免费录制在线视频并可过滤广告的工具
-* :white_check_mark: [免费录屏器](https://www.leawo.com/free-screen-recorder/)：4 合 1 屏幕录制软件（免费）
-
-### 2025 年 6 月 19 号添加
-#### smkwls(深圳) - [Github](https://github.com/smkwls)
-* :white_check_mark: [sound effect generator](https://soundeffectgenerator.org/)：音效生成网站, 生成自定义音效
-* :white_check_mark: [Lip Sync](https://lipsync.studio/)：视频和音频嘴形同步，将视频中人的嘴形进行改变以适配音频
-* :white_check_mark: [Quit Porn AI](https://quitporn.ai/)：帮助人们戒除色情成瘾
-
-#### vladelaina - [Github](https://github.com/vladelaina), [博客](https://vladelaina.com/blog)
-* :white_check_mark: [Catime](https://github.com/vladelaina/Catime)：极致轻量的 Windows 倒计时工具，具有番茄工作法功能、透明界面和丰富自定义选项，只需几 MB 内存且几乎不占用 CPU 资源，便可在 Windows 上优雅掌控时间 - [更多介绍](https://vladelaina.github.io/Catime/)
-
-### 2025 年 6 月 18 号添加
-#### Caron77 - [Github](https://github.com/Caron77ai)
-* :white_check_mark: [Veo3 AI Video Generator](https://veo-3.art)：支持文本转视频和图像转视频，配备原生音频生成和精准唇形同步，2-5秒完成专业级视频创作。
-* :white_check_mark: [Flux Kontext AI Image Editor ](https://flux-kontext.xyz)：基于 Black Forest Labs 多模态技术的专业图像转换工具，支持风格迁移、背景替换等功能，2-5秒完成高质量编辑。
-
-#### LuSrackhall(深圳) - [Github](https://github.com/LuSrackhall)
-* :white_check_mark: [KeyTone](https://keytone.xuanhall.com/)：简单易用、高度可定制的开源按键声音应用，帮助你通过载入自制音频打造独一无二的键音体验，支持多合一 ***高级声音*** 的随机或顺序触发，支持 ***高级声音*** 间的 ***组合与继承***，力求每次敲击都充满创意，释放你的键音艺术。 - [更多介绍](https://github.com/LuSrackhall/KeyTone)
-
-#### md2card (深圳) - [Github](https://github.com/JsonChao)、[博客](https://juejin.cn/user/4318537403878167/posts)
-* :white_check_mark: [md2card](https://www.md2card.online/)：MD2Card 在线工具，支持多主题，一键将 Markdown 拆分并生成知识卡片，支持 AI 魔幻卡片和长文智能拆分功能，可编辑，可导出 PNG/SVG/PDF，适合笔记分享与社媒传播
-
-#### Alex - [Github](https://github.com/C-Jeril)
-* :white_check_mark: [Kuakua夸夸](https://kuakua.app/)： 全网最全的心理学资源网站，用简单心理学与AI工具带来幸福激发内在力量 | 成为更好的自己 | 简单心理学，目前还在持续更新中，做更多可体验的心理学内容 - [更多介绍](https://github.com/C-Jeril/kuakua)
-
-### 2025 年 6 月 16 号添加
-#### handsometom
-* :white_check_mark: [Labubu Wallpaper](https://labubulivewallpaper.com/)：下载高级 Labubu 动态壁纸合集，免费获取精美动画 Labubu 动态壁纸设计。适用于所有设备的高品质 Labubu 动态壁纸，动画流畅。
-
-### 2025 年 6 月 13 号添加
-#### Anna - [Github](https://github.com/fluxstrive)
-* :white_check_mark: [Seedance AI Video Generator](https://seedanceai.net/)：用 文字/图片 生成视频，Seedance AI 将您的想法转化为令人惊叹的视频（Seedance 1.0 Pro 模型）
-
-### 2025 年 6 月 12 号添加
-#### sing1ee - [Github](https://github.com/sing1ee)
-* :white_check_mark: [Random Letter Generator](https://randomlettergenerator.app/)：随机生成指定数量的序列,适用密码生成、游戏开发中的随机元素序列等等
-
-#### TuShenmei - [Github](https://github.com/TuShenmei-xiannv)
-* :white_check_mark: [职场沟通小诸葛](https://procommai.com/)：告别职场说错话焦虑，AI助你掌握高效沟通技巧，提升职场表达力。  
-如果你是以下人群，那么职场沟通小诸葛将是你的得力助手：  
-职场新人/下属：面对领导和前辈，常常在汇报工作、提出请求时感到压力，担心言辞不妥，显得不专业或冒犯。  
-团队管理者/上级：需要向下属布置任务、提供反馈甚至批评，希望能做到既清晰有力，又不打击团队士气。  
-跨部门协作者：在与不同背景的同事沟通时，需要频繁切换沟通风格，以确保信息准确传达，并推动项目顺利进行。  
-所有追求高效的职场人：厌倦了将宝贵的时间浪费在遣词造句的内耗上，希望将精力聚焦于更有创造性的核心工作。  
-
-#### Anna - [Github](https://github.com/fluxstrive)
-* :white_check_mark: [Veo3 AI](https://aiveo3.net/)：根据文本提示或图像生成专业视频（使用 Veo3），并提供本地音频和逼真的物理效果
-
-#### chasays
-* :x: [veo3 AI video generator](https://zacose.com/veo3_ai_video_generator)：通过 AI 生成的音频和视觉完全同步，效果彻底改变视频的创作，使用VEO 3 AI API解锁视频创建的未来 - 与音频同步的无缝视频生成
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

@@ -26,11 +26,28 @@
 
 ### 2026 年 11 月 5 号添加
 
+#### bob(深圳)
+* :white_check_mark: [dola](https://dolaai.video/)：AI 视频与图片生成器，用文字、首尾帧或参考图生成短片，Seedance 2.5 最高 1080p，导出不带水印，按次扣额度、无免费试用
+
+#### sdupig - [Github](https://github.com/sdupig)
+* :white_check_mark: [CrestGeo](https://crestgeo.com)：想知道豆包、DeepSeek、Kimi 等 AI 回答问题时会不会提到你的网站或店铺、说得对不对、推荐了谁？输入网址或品牌名/店铺名先看分数，并给出可执行的修改建议
+
+#### Jayden-tong - [GitHub](https://github.com/Jayden-tong)
+* :white_check_mark: [InkByYou](https://inkbyyou.com/)：AI 纹身设计工具，用文字或参考图生成纹身草图，支持多种风格、AI 修改、线稿提取和上身预览；提供免费预览，高清原创图下载需付费
+* :white_check_mark: [WordStar 词光](https://www.wordstar.cc)：面向雅思备考者的词汇学习网站，通过插画、英美发音、例句、拼写练习和间隔复习记单词；免费试学 100 词，完整词表文件免费下载，全词库在线学习需会员
+
+#### leafiy - [Github](https://github.com/leafiy)
+* :white_check_mark: [TATOOLS](https://tatools.cn/)：面向人文社科研究者的中文在线文本分析平台，无需编程即可做词频统计、情感分析与主题建模，按算力点数收费 - [更多介绍与教程](https://tatools.cn/article)
+
+#### JhuoW - [Github](https://github.com/JhuoW)
+* :white_check_mark: [PDF-Editor](https://wei2hu0.github.io/PDF-Editor/)：免费开源的网页 PDF 编辑器，可在浏览器内改文字和图片、批注及合并页面，文件无需上传
+* :white_check_mark: [OpenMathpix](https://github.com/JhuoW/OpenMathpix/releases/latest)：Windows 公式截图工具（免费），首次下载模型后可在本机离线将单个公式截图转为 LaTeX
+
+#### Anthony - [Github](https://github.com/CoatingKnowledgeHub)
+* :white_check_mark: [涂装知识网站](https://muse.ai/s/tu-zhuang-zhi-shi-wang-zhan-xjf6h2xd3fxfxdxv/M__w8toiRYQ-oNAQlbmG5XnqVvhQwcJugMiT_gZIXQA)：免费涂装知识库，面向工业涂装工程师，涵盖涂装理论、22 条缺陷诊断、涂膜性能要求、28 种检测方法与露点、膜厚、涂布率等车间计算工具，简体中文
+
 #### Wujie Li - [Github](https://github.com/wujieli0207)
 * :white_check_mark: [Mandarin Recall](https://mandarinrecall.com)：HSK 3.0 词汇站，2025 考纲每个词带拼音、发音和旧新级别对照；间隔重复免费且不用注册，写自己的句子可以得到 AI 反馈
-
-#### mac nie - [Github](https://github.com/macuns)
-* :white_check_mark: [券到卡包](https://www.quandaokabao.com)：微信电子券制作小程序，面向实体店永久免费做优惠券、券包、次卡；顾客领进卡包，到店扫码核销，不用自己开发
 
 #### air158 - [Github](https://github.com/air158)
 * :white_check_mark: [题伴](https://tiban.momoai.pro/app)：中文截图与文字练习助手，粘贴题目或上传截图，查看编程题、选择题、填空及主观题的答案和解析；需登录，新账号赠送 10 次体验，后续按次付费 - [更多介绍](https://tiban.momoai.pro/)
@@ -1359,7 +1376,7 @@
 * :white_check_mark: [CubistAI](https://cubistai.org/)：AI 图片生成工具，输入文字秒出高清图，集成 Nano Banana 2、Seedream、FLUX.2 等模型，每天有免费额度，另附 AI 头像、卡通化、涂色页、抠图、水印去除等专项工具
 
 #### lttxzmj - [Github](https://github.com/lttxzmj)
-* :white_check_mark: [法脉 LawPulse](https://lttxzmj.github.io/lawpulse-site/)：给中国执业律师的本地离线法律研究工具（macOS）：412 部现行法律逐条检索，笔记直接挂在法条下自动成链，AI 合同审查用自己的模型密钥且引用逐条回本地法库核实；数据全在本机不上云。公测期免费。配套开源了 [chinese-law-corpus](https://github.com/lttxzmj/chinese-law-corpus)（412 部法律逐条 JSON + 723 件案例，CC0）
+* :white_check_mark: [法脉 LawPulse](https://lttxzmj.github.io/lawpulse-site/)：给中国执业律师的本地离线法律研究工具（macOS）：412 部现行法律逐条检索，笔记直接挂在法条下自动成链，AI 合同审查用自己的模型密钥且引用逐条回本地法库核实。公测期免费。配套开源了 [chinese-law-corpus](https://github.com/lttxzmj/chinese-law-corpus)（412 部法律逐条 JSON + 723 件案例，CC0）
 
 
 #### SiteHunter - [Github](https://github.com/SiteHunter)
@@ -5157,37 +5174,6 @@
 ### 2025 年 6 月 29 号添加
 #### Dylan Tao(合肥)
 * :white_check_mark: [SaaSGree](https://saasgree.com)：SaaSGree 专为企业间签订各类 SaaS 合同的场景而设计，帮助用户通过专业合同模板快速生成协议，无需高价聘请律师，也避免使用低质量模板带来的法律风险。
-
-### 2025 年 6 月 28 号添加
-#### hjiayu799
-* :x: [AI Instagram Username Generator](https://instagramusername.org/)：生成用户名的网站，输入关键词并选择风格快速生成创意名称。
-它还提供匹配的简介建议，特是针对于社交媒体 facebook twitter Instagram...微博之类的，且基于 AI 技术分析流行趋势，生成的内容兼具独特性与吸引力。并且防止重复无法注册 - [更多介绍](https://instagramusername.org/about)
-
-#### leo(上海)
-* :white_check_mark: [Asphalt Calculator](https://asphaltcalculatorhub.com/)：沥青价格计算器
-  
-#### Ethan Sunray
-* :white_check_mark: [KKV AI](https://kkv.ai)：KKV 是一站式 AI 创作平台，提供视频生成、图像创作、照片编辑、趣味滤镜、AI 聊天助手等功能，无障碍访问 Veo 3、Flux、Claude Opus 4 等 100+ 顶级模型
-
-#### erickkkyt - [Github](https://github.com/erickkkyt)
-* :white_check_mark: [AI  Dog Olympics Generator](https://www.dogolympics.net/)：制作独一无二、爆火的动物奥运会 AI 视频
-
-### 2025 年 6 月 27 号添加
-#### toby(南京)
-* :white_check_mark: [FantasyGen](https://fantasygen.net/)：AI 生成奇幻地图和人物
-
-#### sing1ee(上海)
-* :white_check_mark: [Curate Click](https://curateclick.com/)：导航站，收录产品和工具。
-
-#### james(杭州）
-* :white_check_mark: [fluxcontext](https://fluxcontext.app/) : 用 AI 修改你的图片（使用 FLUX KONTEXT AI），Professional Online Image Enhance with FLUX KONTEXT AI
-
-### 2025 年 6 月 26 号添加
-#### Allen(深圳) 
-* :white_check_mark: [FLUX Kontext](https://kontextflux.com )：上下文感知智能图像编辑平台，内置 FLUX.1 Kontext ，Gpt4o image 图像编辑器。能够保持人物一致性，对画面精修
-
-#### rns
-* :white_check_mark: [Headcanon 生成器 - 创作同人小说创意](https://headcanongenerator.fun/)： 为您喜爱的角色创作独特的同人小说创意
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

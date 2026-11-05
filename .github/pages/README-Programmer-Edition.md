@@ -16,6 +16,16 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 5 号添加
+#### Shiqi Cao - [Github](https://github.com/shiqicao)
+* :white_check_mark: [gh-pull](https://github.com/shiqicao/gh-pull)：免费、MIT 开源的 GitHub CLI 扩展，在本地浏览器中集中查看多个仓库的 PR，保存搜索与分组，查看堆叠 PR 依赖、CI 状态和已解决／总评审线程数 - [演示视频](https://youtu.be/4LBga5H5Wwk)
+
+#### YKLovePython - [GitHub](https://github.com/YKLovePython)
+* :white_check_mark: [halfsize](https://github.com/YKLovePython/halfsize)：开源的视频压缩命令行工具（自带本地网页界面），把视频精确压到指定大小（微信 / Discord 20 MB、邮件 20 MB 等），并用 VMAF/SSIM 报告画质损失；一条命令、文件不上传、无需账号，Windows / macOS / Linux 都能用 - [更多介绍](https://github.com/YKLovePython/halfsize#readme)
+
+#### 王乐
+* :white_check_mark: [小羊Plus](https://xiaoyangplus.com/)：国内 ChatGPT 代充平台，支持使用 Account ID 充值，无需账号密码，无需验证码，可开正规公司发票，充值失败全额退款
+
 ### 2026 年 11 月 4 号添加
 #### 欧克元
 * :white_check_mark: [ChatGPT礼品卡](https://aicardhub.shop/)：ChatGPT 多面值礼品卡，可直充自己账户
@@ -859,7 +869,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2026 年 6 月 6 号添加
 
 #### AstroPixelian - [Github](https://github.com/AstroPixelian)
-* :white_check_mark: [CoderPlan](https://coderplan.ai)：LLM API 中转网关，OpenAI 兼容接口，一行配置接入 Claude Code / Codex CLI / Gemini CLI，新用户免费额度，按量付费，支持支付宝/微信
+* :white_check_mark: [CoderPlan](https://coderplan.ai)：AI 编程 API 中转站，一个 Key 调 Claude（Opus 5.5、Sonnet 5.5 等）、GPT（GPT-6.1、GPT-5.6 等）、Gemini、Grok、MiniMax 模型，同时服务 Claude Code、Codex CLI、Cursor、Gemini CLI；Claude Code 填 `https://api.coderplan.ai`，OpenAI 兼容工具填 `https://api.coderplan.ai/v1`；Stripe 国际卡充值，价格表注册前可查，每笔请求明细（模型 / tokens / 缓存 / 费用）可核对，余额不过期，按量计费无月费；文档部分为中文，英文版进行中 - [定价页](https://coderplan.ai/pricing)
 
 ### 2026 年 4 月 10 号添加
 

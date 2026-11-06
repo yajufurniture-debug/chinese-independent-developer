@@ -24,6 +24,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 6 号添加
+
+#### Sphinx-Shawn - [Github](https://github.com/Sphinx-Shawn)
+* :white_check_mark: [妙比特 funnybit](https://funnybit.cn/)：Vibe Coding 作品与 AI 应用灵感发现平台，汇集独立开发者创作的 AI 应用和实际作品案例，包含官方开发的一些应用，支持分类浏览与作品探索，并提供原创 AI 日报和周报
+
+#### Weijian Zhang - [Github](https://github.com/MicroZ-LLC/AllInOneIME)
+* :white_check_mark: [AllInOneIME](https://allinoneime.com/zh/)：Mac 输入法，在任何 App 的输入框句首打 @improve、@translate 或 @question 再按回车，就地润色、翻译或提问，选中结果直接上屏，不用复制到聊天窗口；自带 Rime 雾凇拼音，免费，每天 20 次免费 AI，也可以用自己的 Claude / Gemini / DeepSeek key
+
+#### Linhao Cui - [Github](https://github.com/cuilinhao)
+* :white_check_mark: [Pettenderly](https://pettenderly.com/)：在线 AI 宠物写真工具，上传 1–5 张同一只宠物的照片，选择水彩、皇家或影棚风格，生成并下载一幅专属画像
+
 ### 2026 年 11 月 5 号添加
 
 #### bob(深圳)
@@ -313,7 +324,7 @@
 * :white_check_mark: [Spaceora](https://spaceora.app/)：AI 家居与花园设计工具，上传一张房间或庭院照片即可生成室内改造、虚拟布置、景观和后院设计效果，并可根据 USDA 种植区推荐植物；提供免费使用次数，生成结果用于设计构思而非精确施工图
 
 #### Charlie W - [Github](https://github.com/charliewwdev)
-* :white_check_mark: [OpenMontage Drama Studio](https://openmontage.dtok.io)：开源 AI 短剧与短视频工坊，一句话灵感依次走完剧本、角色、场景、道具、分镜、配音、剪辑 7 个环节，也可用内置电商带货模板做广告片；无需登录可浏览灵感墙和示例，生成需登录并填写自己的模型 Key（Seedream / Seedance 为付费 API），AGPL-3.0 开源、支持 Docker 自部署 - [Github](https://github.com/charliewwdev/OpenMontage)
+* :white_check_mark: [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage)：可自己部署的 AI 短剧工作台，剧本→角色→场景→道具→分镜→配音→剪辑一条线走完，角色和场景参考图跨镜头复用保持人物一致；Docker Compose 部署，接任意 OpenAI 兼容大模型，图像视频走 Seedream/Seedance（付费 API）或自己的 ComfyUI，AGPL-3.0 开源 - [在线体验](https://openmontage.dtok.io)
 
 #### Jazmín - [Github](https://github.com/ljmng7)
 * :white_check_mark: [MacMix](https://macmix.jazminli.com)：Mac 菜单栏音量混音器，支持按应用独立调节音量、自定义 EQ 和多设备输出；基础功能免费，高级功能 ¥29.99 一次性买断，代码全部开源（GPL-3.0） - [GitHub](https://github.com/ljmng7/MacMix)
@@ -5149,31 +5160,6 @@
 
 #### wdh(杭州) 
 * :white_check_mark: [Veegen](https://veegen.ai/)：图片生成视频工具
-
-### 2025 年 7 月 2 号添加
-#### yelo1900 - [Github](https://github.com/yelo1900)
-* :white_check_mark: [Crybaby Wallpaper 4K 高清壁纸](https://crybaby-wallpaper.com)
-
-#### tao(杭州) - [Github](https://github.com/nietao2018)
-* :white_check_mark: [Converters.pro](https://www.converters.pro)：基于 AI 的图片和视频转换网站，可以帮你做背景修复、老照片恢复、虚拟换衣
-
-### 2025 年 7 月 1 号添加
-#### rns
-* :white_check_mark: [Quitar Fondo](https://quitarfondo.cc/)：（西班牙语产品，无中文或英文版）用 AI 删除图片背景
-
-#### iam-tin - [Github](https://github.com/iam-tin)
-* :white_check_mark: [MARS AI](https://marsai.site/)：MARS AI 提供免费的 AI 视频生成和图像生成，用文本或图片创建专业视频和图片，把点子转为视觉内容
-
-#### RainbowBird | 洛灵 (上海) - [Github](https://github.com/luoling8192), [博客](https://blog.luoling.moe)
-* :white_check_mark: [AIRI](https://github.com/moeru-ai/airi)：包含 AI 老婆/虚拟角色灵魂的容器，将它们带入我们的世界，希望达到 Neuro-sama 的高度，完全由 LLM 和 AI 驱动，能够进行实时语音聊天、玩 Minecraft、玩Factorio。可在浏览器或桌面运行。
-
-### 2025 年 6 月 30 号添加
-#### seeeeal（西安） - [Github](https://github.com/seeeeal) [Blog](https://seeeeal.fun/)
-* :white_check_mark: [相机水印生成器](https://exifframe.org): 在线为图片添加相机水印。相机水印包含相机品牌 / 型号 / 拍摄时间 / 拍摄地点 / 光圈 / 快门 / ISO 等信息。优雅的展示你的摄影作品。无需注册登录，免费导出。
-
-### 2025 年 6 月 29 号添加
-#### Dylan Tao(合肥)
-* :white_check_mark: [SaaSGree](https://saasgree.com)：SaaSGree 专为企业间签订各类 SaaS 合同的场景而设计，帮助用户通过专业合同模板快速生成协议，无需高价聘请律师，也避免使用低质量模板带来的法律风险。
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

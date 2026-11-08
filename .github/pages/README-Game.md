@@ -2,13 +2,17 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 8 号添加
+#### PlanJ（Weiqi Jiang）
+* :white_check_mark: [Azeroth Survivors 构筑计算器](https://azerothsurvivors.app/build-calculator/)：面向 Azeroth Survivors 玩家的非官方构筑规划工具，搭配天赋、技能和装备，生成可继续编辑的分享链接或导出 PNG；核心规划功能免费，无需注册
+
 ### 2026 年 11 月 6 号添加
 #### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
 * :white_check_mark: [Parallel Parking Simulator](https://parallelparkingsimulator.com/)：侧方停车模拟器（免费），打开网页即可练习打方向、倒车入位和回正，附分步停车指南
 
 ### 2026 年 11 月 3 号添加
 #### 词不一样就跑步 - [Github](https://github.com/bukun678)
-* :white_check_mark: [词不一样就跑步](https://glm5.pro/)：两人面对面共用一部手机的中文联想网页小游戏，从两个起始词各想相关词，倒计时后同时说出，不同就继续联想直到答案一致；三类共60组起始词，3/5/10秒倒计时，免费、无需下载或注册
+* :white_check_mark: [词不一样就跑步](https://glm5.pro/)：支持两人远程参与的中文联想网页小游戏，各用一部手机，根据两个起始词独立输入相关词，双方提交后一起揭晓，不同自动进入下一轮，相同生成共同结果与足迹海报；三类共60组起始词，可选321倒数，也可共用一部手机，免费、无需下载或注册
 
 #### Leo Lin - [Github](https://github.com/flukier1016)
 * :white_check_mark: [人间走一遭](https://cn.zouyizao.com/?from=cid)：中文人生模拟网页游戏，投胎三选一，一年一回合过完一生，出生年份 1950 到 2049 可选；含 4992 个随机事件、200 种职业、75 座城市，水墨画风，免费、免注册，手机电脑都能玩

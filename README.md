@@ -24,6 +24,41 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 10 号添加
+
+#### FlyDesk 飞桌开发团队（成都） - [Github](https://github.com/lyingjack)
+* :white_check_mark: [FlyDesk 飞桌](https://desk.flychat.work/)：远程桌面软件，在手机上输入设备 ID 与访问码连接自己的电脑，支持触控、键盘操作、同账号设备管理和云收藏；普通单人连接免费，含 VIP 付费权益 - [下载](https://desk.flychat.work/downloads) · [开发方介绍与体验招募](https://zhuanlan.zhihu.com/p/2103291767672026342)
+
+#### Pamela - [Github](https://github.com/pamelaaaaa1218)
+* :white_check_mark: [wmfree](https://wmfree.com/)：网页图片去水印工具，在浏览器里涂抹或框选即可修复、打码或裁剪，本地处理不上传，打开即用、无需注册 - [更多介绍](https://github.com/pamelaaaaa1218/watermark-remover)
+
+#### Kai Jiang - [Github](https://github.com/jiangqizheng)
+* :white_check_mark: [EarlyLore](https://earlylore.com)：产品调研网站，写下想法或粘贴网址，对照真实在线软件看竞争、定价和获客后再决定是否动手；流量为估算，免费可用，提供中日文界面
+
+#### kiya0908 - [Github](https://github.com/kiya0908)
+* :white_check_mark: [Lyrics to Song AI](https://lyricstosongai.org)：AI 歌词成曲工具，把你写好的歌词做成带人声的完整歌曲，可选风格并一次生成多个版本对比
+
+#### Wujie Li - [Github](https://github.com/wujieli0207)
+* :white_check_mark: [EmoteLoop](https://emoteloop.com/)：AI Twitch emote 生成器，写一句话或上传一张自拍，大约 20 秒得到透明背景、无限循环的 512px GIF，动作按描述生成，不是给静态表情套预设动画
+
+#### Samuel Shek - [Github](https://github.com/Samuel-Shek)
+* :white_check_mark: [Models Rank 模型榜](https://modelsrank.org/)：AI 大模型榜单，汇总 Artificial Analysis 等第三方公开评测，把能力分、单任务成本和速度放在一张表里比较，每个模型有标注来源的详情页，每周更新，中英双语
+
+#### 高剑辉 - [Github](https://github.com/Jeffgao222)
+* :white_check_mark: [课伴](https://apps.apple.com/cn/app/id6790702626)：面向独立家教的 iOS App，学生档案、排课、课时包、收款与 AI 起草家长反馈一条线，本地优先，免费可管约 5 名学生
+
+#### NextJSON(多伦多) - [网站](https://nextjson.com/)
+* :white_check_mark: [NextJSON](https://nextjson.com/)：免费 JSON 工具箱，可解析嵌套/转义的 JSON 字符串、格式化与查看、对比两份 JSON、生成 JSON Schema，全部在浏览器里运行，无需注册
+
+#### Bill Chan(香港) - [Github](https://github.com/billpwchan)
+* :white_check_mark: [知音](https://zhiyin.billpwchan.art/card?ref=1c7)：贴网易云「我喜欢的音乐」或 QQ 音乐主页的分享链接，不用登录，Claude 给你的口味起个名字、锐评一句，再按每首歌点喜欢的月份画成一张能分享的唱片；用 YouTube Music 的话还是一个每周更新的私人电台，每首歌都说为什么选它 - [GitHub 仓库](https://github.com/billpwchan/zhiyin)
+
+#### Tao Wang - [Github](https://github.com/hellotaotao)
+* :white_check_mark: [TypeAloud](https://typealoud.app/zh)：Mac/Windows 语音输入工具，在任意应用里按住快捷键说话、松手文字就出现在光标处，用千问 Qwen3-ASR 在本机转写，中英混说也能识别；免费开源，本地转写无需注册或 API Key - [更多介绍](https://github.com/hellotaotao/typealoud)
+
+#### ClapClip - [Github](https://github.com/ClapClip)
+* :white_check_mark: [ClapClip AI](https://www.clapclip.net/)：在自己的 Windows 10/11 电脑上给照片和长视频换脸，4 个模型可选，实时预览，NVIDIA/AMD/Intel 显卡加速，素材不上传；安装和预览免费，导出需订阅
+
 ### 2026 年 11 月 9 号添加
 
 #### Torres
@@ -597,7 +632,7 @@
 * :white_check_mark: [Weather Trip](https://weather-trip.aicake.io)：按未来天气筛选旅行目的地的工具站，支持按温度、降雨、湿度等条件查找全球城市，通过天气地图比较城市预报，提供中英文界面 - [GitHub 仓库](https://github.com/xiaomingio/weather-trip)
 
 #### ikeisthere - [Github](https://github.com/ikeisthere)
-* :white_check_mark: [夸夸跨境](https://kuakuakua.com/pricing-calculator/)：面向中国 Ozon 跨境卖家的免费定价计算器（免登录，按类目佣金、rFBS/FBP 物流资费、汇率与目标利润反推建议售价）与中文实操教程；可选多店体检工作台 — Web 应用
+* :white_check_mark: [夸夸跨境](https://kuakuakua.com/tools/pricing-calculator/)：面向中国 Ozon 跨境卖家的免费定价计算器（免登录，按类目佣金、rFBS/FBP 物流资费、汇率与目标利润反推建议售价）与中文实操教程；可选多店体检工作台 — Web 应用
 
 #### stimQQ - [Github](https://github.com/stimQQ)
 * :white_check_mark: [LayerGrab](https://layergrab.com)：AI 图片转图层工具，把一张图拆成可编辑的命名图层并补全被遮挡的背景，可导出 PNG/PSD，也能只提取你指名的一个元素；有 Figma 插件和 Chrome 扩展，网页英文界面，每个账号可免费试用一次 - [更多介绍](https://github.com/layergrab/layergrab-plugins)
@@ -5092,60 +5127,6 @@
 ### 2025 年 7 月 21 号添加
 #### fanison(北京) 
 * :white_check_mark: [photo color changer](https://photocolorchanger.com/)：免费在线更改图像颜色，简化图像类型的处理流程。只需使用直观的颜色选择器选择目标区域（前景或背景），然后选择新的颜色即可
-
-### 2025 年 7 月 19 号添加
-#### Patrick (顺德)
-* :white_check_mark: [怼怼侠](https://www.duiduixia.com/)：小网站，用 AI 帮你优雅回怼阴阳怪气，不带脏话
-
-#### Q.Jin - [Github](https://github.com/qijin-3)
-* :x: [好有链接 数字名片](https://links.haoyou.tech)：数字名片工具，支持多身份名片管理和中文口令分享。它帮助你为每一个社交身份创建独立的名片，分别绑定不同的社交账号、内容卡片和联系方式。在不同场合，分享不同的自己，让对方快速了解你，无需反复自我介绍。除了支持微信分享你的名片。你还可以给每张卡片都绑定中文口令。通过口令搜索和分享卡片，轻巧、便捷，也更有趣 - [小程序二维码](https://links.haoyou.tech/Drawing_bed/Slide_16_9_-_25.png)
-
-#### Hnher(郑州) - [博客](https://www.hnher.com)
-* :white_check_mark: [会员次卡通](https://emember.hnher.com)：会员计次卡管理系统
-* :white_check_mark: [互游侠](https://egame.hnher.com)：游戏卡册收集器
-
-### 2025 年 7 月 18 号添加
-#### fx(深圳) - [Github](https://github.com/limxfx)
-* :white_check_mark: [ContactHelper](https://apps.apple.com/us/app/contacthelper/id6738916060)：编辑通讯录联系人属性，让 iPhone 支持T9拨号以及非中文系统下的通讯录排序
-* :white_check_mark: [Gone & Left](https://apps.apple.com/us/app/gone-left/id6744050306)：时间可视化，感受每一刻时间的流逝，支持 iPhone 小组件
-
-### 2025 年 7 月 17 号添加
-#### ziwu(广州) - [Github](https://github.com/ziwu7)
-* :white_check_mark: [Omnigen2](https://omnigen2.org/)：智源开源的 7B 统一多模态图像生成模型，一句话精准完成风格转换、元素增删、背景替换等高阶 PS 级操作。
-
-#### hnher(郑州)
-* :white_check_mark: [水印相机](https://camera.hnher.com/)：可以拍带水印照片并分享给微信好友。
-
-### 2025 年 7 月 16 号添加
-#### james（武汉）- [Github](https://github.com/JamesHuang22)
-* :white_check_mark: [去留助手AI](https://www.huiguo.info/)：专为海外留学生和海外发展的华人打造的智能决策辅助工具。通过 AI 大模型分析，根据每个人不同的情况，评估“回国发展”与“留在海外”两种路径的优劣，助力做出更明智的职业与人生选择。并且能通过大数据分析，智能计算与同龄人平均水平的位置。
-
-### 2025 年 7 月 14 号添加
-#### heyjude(上海）
-* :white_check_mark: [TmpMail](https://www.tmpmail.online): 免费临时邮箱TmpMail
-* :x: [Posterfy](https://www.posterfy.art/): 生成音乐海报
-* :white_check_mark: [Avatify](https://www.avatify.online/): 生成头像
-
-#### Selenium39(广州) - [Selenium39](http://github.com/Selenium39)
-* :white_check_mark: [LLMOCR](https://llmocr.com)：基于 AI 的 OCR 服务
-* :white_check_mark: [FWFW](https://fwfw.app)：Find Websites From World
-
-### 2025 年 7 月 13 号添加
-#### nogeek(杭州)
-* :white_check_mark: [stater best](https://starterbest.com/)：收集一下发布的产品，可以作为导航站、发布站
-
-### 2025 年 7 月 12 号添加
-#### fanison(北京)
-* :white_check_mark: [melhorar imagem](https://melhorarimagem.org)：专注巴西市场的在线图像处理工具，用 AI 帮助用户提升图片分辨率、增强画质、修复模糊和噪点，让您的照片焕然一新。
-
-#### hjiayu799
-* :white_check_mark: [魔镜歌词网](https://mojigeci.com/)：500 万歌词库，专业歌词搜索平台 - [更多介绍](https://mojigeci.com/about)
-
-#### Amyang(美国) - [Github](https://github.com/AmyangXYZ)
-* :white_check_mark: [PoPo](https://popo.love)：LLM 在线生成 MMD 纸片人姿势
-
-#### SSShooter - [GitHub](https://github.com/SSShooter)
-* :white_check_mark: [SS 工具箱](https://tools.mind-elixir.com/)：SS 工具箱是一个集成 40+ 实用在线工具的综合平台，专为提升你的工作效率和创造力而设计。所有工具完全在浏览器中运行，无需上传数据，确保完全的隐私和安全
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

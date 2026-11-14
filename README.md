@@ -24,6 +24,38 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 14 号添加
+
+#### Lorraine（新加坡） - [Github](https://github.com/LorraineLiuNUS)
+* :white_check_mark: [灵犀 Lyncis](https://lyncis.app)：国学版 MBTI，输入生日，测出你在《周易》64 卦里的本命卦、身份名和本命神，还能拉朋友合一卦，看你们是什么组合；不算命、不断吉凶，每一句都有古籍出处，支持中英文，网页直接用
+
+#### 数字生命卡兹克 - [Github](https://github.com/KKKKhazix)
+* :white_check_mark: [AIHOT](https://aihot.news/)：中文 AI 资讯网站，把模型发布、新产品、研究和行业动态整理成精选与日、周、月报，每条保留原文链接，也可以按主题跟踪进展。打开即读，无需注册
+
+#### CrabMen - [GitHub](https://github.com/CrabMen)
+* :white_check_mark: [農民曆](https://nongminli.tw/)：面向台湾的农历、宜忌与国定假日查询网站，附资料来源；提供免费的假日行事历订阅，目前包含 2026、2027 年，无需注册即可使用 - [订阅教学](https://github.com/CrabMen/nongminli.tw/blob/main/docs/calendar-subscription.md)
+
+#### Alwzc - [GitHub](https://github.com/Alwzc)
+* :white_check_mark: [光梦 AlphaDrama](https://www.getalphadrama.com/)：AI 短剧漫剧与带货视频工作台，把网文小说或商品图一键改写成 60 秒 9:16 竖屏剧本、生成角色正侧背三视图锁脸、拆解 12–18 镜分镜表，接 Seedance / 可灵 / 海螺 / Wan / Veo 批量生视频并配音压字幕导出成片；也支持粘贴爆款短视频链接按镜拆解复刻。新注册送免费体验额度 - [国内直连](https://ad.yosweet.cn/)
+
+#### jayyaj642111-bit - [GitHub](https://github.com/jayyaj642111-bit)
+* :white_check_mark: [PixBloom](https://pixbloom.org)：上传一张商品实拍，一次出齐白底主图、使用场景图、材质细节图和多角度图（电商套图）；也能一句话生成小红书封面、春节海报、头像和壁纸。按张消耗积分（每张 10 积分），首单 ¥9.9 可生成 4 张，生成失败自动退回积分
+
+#### Andy Zhang
+* :white_check_mark: [ImgEdify](https://imgedify.com)：在线 AI 修图和文生图工具，可上传图片编辑或用文字生成图片，并带去背景功能
+
+#### Aster110 - [GitHub](https://github.com/Aster110)
+* :white_check_mark: [Secret Santa Generator](https://secretsantagenerator.xyz/)：圣诞交换礼物（Secret Santa）在线抽签工具，3 到 200 人，可设排除名单（情侣、同住不互抽）和礼物预算，每人一个私密链接或打印纸条；免费、无需注册、不收邮箱
+
+#### 王天如（北京） - [Github](https://github.com/korey2028-prog), [博客](https://korey2028.tech)
+* :white_check_mark: [Fitness OS](https://korey2028.tech/fitness/app/?demo=1&lang=zh)：私教工作台，把会员训练、到课和跟进记在同一页，免登录即可打开演示；源自亲自服务 40+ 名健身会员的案例，不是对外售卖的 SaaS - [更多介绍](https://korey2028.tech/work/fitness-os.html)
+
+#### Ollivander23 - [Github](https://github.com/ollivander23), [博客](https://blog.csdn.net/2301_76996311)
+* :white_check_mark: [热力地图工坊](https://heatmap.mavi.help/)：小而美的Excel数据地图工坊，一键生成可下钻，可联动柱状图的动态地图。地图覆盖全国 34 个省级行政区、388 个地级市、2897 个县级行政区。支持"全国+区县级"、"xx省+区县级"组合，任意粒度任意层级，想看多细的划分，由你决定！
+
+#### BukeLy - [Github](https://github.com/BukeLy)
+* :white_check_mark: [WordLinea](https://wordlinea.com/zh)：看剧学外语的浏览器插件（Chrome、Edge、Safari），YouTube、Netflix、B 站字幕译成两行，点字幕里的生词按这句台词给释义，词连同台词和播放到的那一秒存进词库，到期出一道题复习；所有功能免费账号都能用 - [更多介绍](https://wordlinea.com/zh/subtitles)
+
 ### 2026 年 11 月 13 号添加
 
 #### leontloveless - [GitHub](https://github.com/leontloveless)
@@ -5034,82 +5066,6 @@
 ### 2025 年 8 月 26 号添加
 #### Lizer(重庆) - [Github](https://github.com/Loverz55)
 * :white_check_mark: [数字生命管](https://news.lizer.cc/)：抖音热搜时间轴， 一小时自动抓取一次，通过工作流全网搜关于这个事件的时间线，然后  AI 梳理，AI 配图
-
-### 2025 年 8 月 25 号添加
-#### 北纬27度
-* :white_check_mark: [ARR (Annual Recurring Revenue) （年度经常性收入）排行榜](https://arrfounder.com)：爬取了全网公开的 ARR 营收数据做的 founder ARR 榜单，会定期更新，感兴趣的朋友可以看看，说不定你也在这份榜单上面
-
-#### YILS-LIN - [Github](https://github.com/YILS-LIN)
-* :white_check_mark: [AI Short Video Factory - 短视频工厂](https://github.com/YILS-LIN/short-video-factory)：一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具
-
-#### AskTao - [Github](https://github.com/ask-tao)
-* :white_check_mark: [Image Splitter](https://github.com/ask-tao/image-splitter)：图集拆分工具。帮助`游戏开发者`或`UI设计师`快速、方便地从一张雪碧图 (`Sprite Sheet`) 中，提取出所有独立的精灵icon资源，或按网格分割图片得到其切片。平台支持：mac/win/linux/web
-
-### 2025 年 8 月 24 号添加
-#### hackun666 - [Github](https://github.com/hackun666)
-* :white_check_mark: [AI 软著生成器](https://ruanzhu.pro)：AI 快速生成软件著作权（软著）申请所需的文档材料
-
-### 2025 年 8 月 23 号添加
-#### 辣条（北京）
-* :white_check_mark: [picture to drawing](https://picturetodrawing.org/) ：图片转手绘风格网站（免费/无需注册）
-
-#### SUOWU(杭州) 
-* :white_check_mark: [morse code translator](https://morsecodetranslator.best/)：摩斯码翻译器，用来将英文或者日语转为摩斯码，有可视化功能
-
-### 2025 年 8 月 22 号添加
-#### monsoonw(杭州)
-* :white_check_mark: [Free Qwen Image Edit AI](https://qwen-image.co)：Qwen Image Edit 网站。高级 AI 图像编辑与完美文本渲染，完美支持中英文文本渲染。
-
-### 2025 年 8 月 21 号添加
-#### kajian(广州)
-* :white_check_mark: [codebox-有趣的二维码平台](https://www.codebox.club)：超萌的免费二维码生成器，每一个二维码都有故事
-
-#### 林悦己(杭州) 
-* :white_check_mark: [Chat Recap AI](https://chatrecap.io)：揭示你對話中隱藏的模式、情緒與紅旗，讓你真正理解你的關係
-
-#### BOS1980
-* :white_check_mark: [Soulmate Sketch｜AI 灵魂伴侣素描（占星画像生成）](https://soulmatedrawing.live)：用 AI + 占星，为你生成专属的黑白手绘风格“灵魂伴侣画像”；10–20 秒极速呈现，多语言网站，移动端友好
-
-#### nogeek (杭州)
-* :white_check_mark: [初创公司到初创公司](https://startuptostartup.com)：发布站 & 目录站（免费）
-
-#### Lingglee - [Github](https://github.com/lingglee)
-* :white_check_mark: [Avif2Png](https://avif2png.com/)：Avif 转 PNG 工具站
-
-#### Honwhy Wang - [Github](https://github.com/honwhy)
-* :white_check_mark: [公众号阅读增强器](https://wxreader.honwhy.wang/)：让微信公众号阅读体验更舒适，自动生成文章目录，优化图片查看，让阅读长文不再迷失，提升浏览体验 - [更多介绍](https://github.com/honwhy/WeChatReaderEnhancer)
-
-### 2025 年 8 月 19 号添加
-#### Panda (深圳)
-* :white_check_mark: [薪资跳动](https://money-dance.com/)：记录工作和摸鱼的微信小程序，可以实时显示当天收入和进度，可以记录和统计摸鱼多少分钟赚了多少钱，还有各种维度的数据统计和可视化。
-
-#### tanchaowen84（深圳） - [Github](https://github.com/tanchaowen84)
-* :white_check_mark:  [Voice Clone - AI 驱动的语音克隆平台](https://voice-clone.org)：用户只需录制或上传一段音频，系统便能在几秒内生成一个属于用户自己的声音模型。支持任意文本的语音生成，听起来自然流畅，几乎接近真人语音。整个流程无需复杂设备，也不需要技术背景，真正实现“用几句话训练出自己的声音” - [GitHub 仓库](https://github.com/tanchaowen84/voice-clone)
-
-### 2025 年 8 月 17 号添加
-#### xibobo(上海) - [Github](https://github.com/my19940202)
-* :white_check_mark: [CelebShout](https://www.celebshout.online/zh)：AI 生成明星语音为你街头吆喝带货
-
-#### ftp2010字(北京) - [Github](https://github.com/ftp2010)
-* :white_check_mark: [mypassrecovery](https://www.mypassrecovery.com)：如果您的 word、pdf、rar 等文档的密码忘记了，这个网站可以帮你找回
-
-### 2025 年 8 月 15 号添加
-#### Selenium39(广州) - [Github](http://github.com/Selenium39)
-* :white_check_mark: [原牛](https://mihoyonb.com)：自媒体工具平台
-
-#### BHznJNs
-* :white_check_mark: [狸语字幕助手](https://apps.microsoft.com/store/detail/9PFLDTV29JFV?cid=DevShareMCLPCS)：让你不开麦也能在直播时“开口”互动的小工具
-
-#### fzero17
-* :white_check_mark: [AA小助手](https://apps.apple.com/app/6749556847)：AA 小助手，一键算清谁该付多少，轻松告别手动算错。
-
-### 2025 年 8 月 14 号添加
-#### 出逃向量(杭州)
-* :white_check_mark: [微信小程序-途搭](https://github.com/user-attachments/assets/2437a6c4-b21b-4f00-a7a3-cc8b245106ae)：徒步者的装备搭配系统，可以查看想去路线他人的搭配和热门装备
-
-### 2025 年 8 月 13 号添加
-#### Ethan Sunray
-* :white_check_mark: [Wplace Tool](https://wplacetool.com)：基于浏览器的工具集，帮助 wplace.live 玩家设计像素艺术、匹配官方调色板颜色、监控服务器状态，并协调团队构建
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

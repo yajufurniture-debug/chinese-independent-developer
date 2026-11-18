@@ -24,6 +24,39 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 18 号添加
+
+#### 红鸦团队
+* :white_check_mark: [红鸦 AI](https://hy.ithinkai.cn/)：给小红书运营和电商商家使用的网页版图文工具，输入主题或上传商品实拍图，先核对标题、正文与每页配图大纲，再批量生成图片；生成按账号积分计费
+
+#### Ldmts
+* :white_check_mark: [AI Pet Meme](https://aipetmeme.org/)：宠物梗视频工具，一张猫或狗的照片即可生成跳舞、唱歌、说话或反应类的带声音短视频
+* :white_check_mark: [Rap AI Video](https://airapvideoai.org/)：说唱短视频工具，上传两张照片并选择舞台，生成带嘻哈节奏和说唱人声的竖屏片段
+* :white_check_mark: [EffectClick](https://effectclick.com/)：模板视频工具，选热门模板、上传一张照片，即可生成带声音的竖屏短视频，不用写提示词
+* :white_check_mark: [AI Image Editor](https://image-editor-ai.com/)：AI 修图工具，支持提示词编辑，以及去背景、去文字水印、老照片修复、上色和放大
+* :white_check_mark: [Image to Image AI](https://imagetoimageai.io/)：图生图编辑工具，上传照片后用提示词做风格迁移、细节修改和去背景
+* :white_check_mark: [Grok Imagine](https://imaginegrok.org/)：图像和短视频生成工具，支持文生图、图生视频，提供 Normal、Fun、Spicy 三种模式，无需 X 账号
+* :white_check_mark: [letsmkvideo](https://letsmkvideo.com/)：文生视频和图生视频工具，既可以从提示词或照片生成，也可以用舞蹈、动漫、电影感等模板直接出片
+
+#### Viral Video AI 团队
+* :white_check_mark: [Viral Video AI](https://viralvideoai.ai/)：网页版短视频生成工具，上传自己的照片套用热门模板，或粘贴公开的 TikTok、YouTube、Instagram 视频链接作为参考，省去手动下载和重传；生成前可查看积分消耗，生成需要 Google 登录和付费积分
+
+#### 白日梦想家 Hi Daydream
+* :white_check_mark: [Ruxget 拾影](https://hidaydream.cloud/ruxget/?utm_source=github_cn_independent)：Windows 下载器与浏览器插件，桌面版可保存 YouTube 视频，插件可保存 B站等受支持平台的视频
+* :white_check_mark: [Tapaste](https://hidaydream.cloud/tapaste/?utm_source=github_cn_independent)：手机和电脑在同一 Wi-Fi 下双向发送照片、文件和文字，手机扫码打开网页
+* :white_check_mark: [Lightable](https://hidaydream.cloud/lightable/?utm_source=github_cn_independent)：Windows 看图软件，支持浏览常见 RAW 照片、打星选片和全屏放幻灯片
+* :white_check_mark: [Leafable](https://hidaydream.cloud/leafable/?utm_source=github_cn_independent)：在 Windows 本地查看、合并和压缩 PDF，可以拖动缩略图调整页序
+* :white_check_mark: [Twinline](https://hidaydream.cloud/twinline/?utm_source=github_cn_independent)：在电脑 Chrome 中给已有字幕的 YouTube 视频加一行中文译文，也可逐段翻译网页
+
+#### 小学后生(杭州) - [GitHub](https://github.com/Dnevend), [个人主页](https://dnevend.site/)
+* :white_check_mark: [ClassyGit](https://classygit.dev)：基于 GitHub 的个人主页与博客网站，将公开数据渲染成 System 6、8-bit、Windows 98、DOS 四套复古主题；输入任意公开用户名即可看效果，不用部署、不用注册、不用服务器 - [GitHub 仓库](https://github.com/Dnevend/classy-github)
+
+#### Nathan - [GitHub](https://github.com/siuserxiaowei)
+* :white_check_mark: [Angry Dance](https://angrydance.com/zh)：单张照片生成 AI 跳舞与整活竖屏视频的网站，无需剪辑经验或写英文提示词，上传人像、猫狗或爱车照片即可直出 9:16 无水印成片（内置愤怒之舞、狗狗跳舞、小狗大战美容师、微缩工人洗车等 23 款特效，复杂场景自动串联两步定帧与运镜）；支持中英文，采用一次性积分包计费免包月订阅，生成失败自动退还积分 - [英文版](https://angrydance.com) · [开源提示词配方库](https://github.com/siuserxiaowei/ai-photo-to-video-prompt-recipes)
+
+#### zerosoul - [GitHub](https://github.com/zerosoul)
+* :white_check_mark: [动动乐园](https://dongdongpark.com)：儿童体感运动游戏网站，用电脑自带摄像头就能玩，孩子跳、蹲、挥手，游戏跟着动；111 个游戏覆盖 3～18 岁，支持双人对战和班级轮流，适合室内体育课和雨天大课间；不用手柄不用安装，画面只在本机识别不上传，可以免费玩（另有可选会员） - [英文版](https://dongdongpark.com/en)
+
 ### 2026 年 11 月 17 号添加
 
 #### 22109906 - [GitHub](https://github.com/22109906)
@@ -42,7 +75,7 @@
 * :white_check_mark: [资料星球](https://resources.packscena.com/)：中文学习与创作资料导航，按语言学习、AI、内容创作等主题查找资料，先看目录预览，再跳转夸克网盘免费领取，浏览无需注册
 
 #### chilayt - [GitHub](https://github.com/chilayt)
-* :white_check_mark: [Bazi Diff](https://bazi-diff.pages.dev/chart/?time=range&utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=birth_time_zh)：免注册的四柱八字试算网站，出生时间只记得大概时，也能按时段比较五种排盘设置，查看哪些柱一致、哪些可能变化，出生资料在浏览器内计算 - [中文说明](https://bazi-diff.pages.dev/guides/bazi-without-exact-birth-time/zh-hans/) · [两岗事业样稿](https://bazi-diff.pages.dev/sample-report/career/zh-hans/?utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=career_sample_zh)
+* :white_check_mark: [Bazi Diff](https://bazi-diff.pages.dev/chart/?time=range&utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=birth_time_zh)：免费八字与紫微斗数排盘，可比较出生时段内哪些八字柱会变，也可用两张虚构盘对照夫妻宫。免注册，出生资料在浏览器内计算 - [中文说明](https://bazi-diff.pages.dev/guides/bazi-without-exact-birth-time/zh-hans/) · [紫微夫妻宫算例](https://bazi-diff.pages.dev/guides/relationship-reflection/zh-hans/?utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=spouse_example_zh#relationship-empty-star) · [两岗事业样稿](https://bazi-diff.pages.dev/sample-report/career/zh-hans/?utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=career_sample_zh)
 
 #### BlynkAI
 * :white_check_mark: [Telo](https://telo.ferryman.app/)：iPhone 和 Apple Watch 上的 AI 健康助手，把 Apple 健康里的睡眠、运动与心率变异性放在一起，方便查看每日状态，也能用语音、照片或文字记录健康事件 - [中国区 App Store](https://apps.apple.com/cn/app/id6761092493)
@@ -1126,7 +1159,7 @@
 ### 2026 年 10 月 11 号添加
 
 #### Jamailar - [Github](https://github.com/Jamailar)
-* :white_check_mark: [Beav](https://github.com/Jamailar/Beav)：为不同社媒账号分别整理素材、稿件和长期偏好，让 AI 检索引用资料并辅助写稿；复用带文字变量和参考图的模板，为小红书等平台制作不同选题的图文 — 本地优先 AI 社媒工作台，素材库定位类似面向社媒和 AI 的 Eagle - [更多介绍](https://github.com/Jamailar/Beav#readme)
+* :white_check_mark: [Beav](https://beav.pro/)：为不同社媒账号分别整理素材、稿件和长期偏好，让 AI 检索引用资料并辅助写稿；复用带文字变量和参考图的模板，为小红书等平台制作不同选题的图文 — 本地优先 AI 社媒工作台，素材库定位类似面向社媒和 AI 的 Eagle - [更多介绍](https://github.com/Jamailar/Beav#readme)
 
 #### ouy35521-beep - [Github](https://github.com/ouy35521-beep)
 * :white_check_mark: [AI Burning Bridges](https://aiburningbridges.app)：上传一张人物或角色图片，即可让图中主体出演内置 Drake「Burning Bridges」派对场景的舞蹈视频，模板自带表演动作、场景与配乐；生成前可预览参考表演、选择视频时长并查看扣费，完成后可下载带配乐的 MP4，手机与电脑浏览器都能用 — 可选 Seedance 2.0 Fast / 2.0 / 2.5 三档生成模型（每 12 秒视频分别 17 / 20 / 37 积分），积分包一次性购买、无需订阅；目前仅内置固定表演模板，不支持自定义动作、场景或音乐
@@ -4981,58 +5014,6 @@
 
 #### NINGSHIQI(深圳)
 * :white_check_mark: [NanoEditor](https://nanoeditor.app/)：对话式 AI 生图平台
-
-### 2025 年 9 月 17 号添加
-#### Red - [Github](https://github.com/CrisChr/json-translator), [博客](https://red666.vercel.app/)
-* :white_check_mark: [JSON Translator](https://jsontrans.fun)：国际化（i18n）翻译工具（为前端开发者打造），上传 json 文件，通过 AI（支持 DeepSeek、Gemini、OpenAI、Anthropic）翻译后直接导出 json，支持 70+ 个国家语言，助力产品出海
-
-#### sing1ee - [Github](https://github.com/sing1ee)
-* :white_check_mark: [Foto Miniatur](https://fotominiatur.com/)：nano banana 图片生成器，提供常用 prompt
-
-#### 饭特稀
-* :white_check_mark: [Thumbnail Downloader](https://thumbnaildownloader.cc)：下载视频网站封面的工具，支持 Youtube，Facebook，Ted，支持网站在逐步添加中
-
-### 2025 年 9 月 15 号添加
-#### 小金子(杭州) - [Github](https://github.com/xiaojinzi123), [博客](https://blog.csdn.net/u011692041)
-* :white_check_mark: [一刻记账](https://yike.icxj.cn/)：纯净的记账 App - [更多介绍](https://github.com/xiaojinzi123/yike-app)
-
-#### yangjuzi - [Github](https://github.com/yangjuzi)
-* :white_check_mark: [版权符号](https://copyrightsymbol.app/)：版权符号的网站，可以复制版权符号及相关的符号©, ®,℗, and ™. ，生成页面footer的版权，版权符号的各种css、alt code、怎么输入在windows、mac、iphone，在word、excel中输入
-
-#### Corey（深圳） - [Github](https://github.com/iamcorey)
-* :white_check_mark: [Seedream AI](https://seedreamai.run/)：Seedream AI 4.0 AI 图片生成器（最新，免费）
-* :white_check_mark: [DR Checker](https://drchecker.org/)：检查并展示任何网站的 Domain rating，并且一键生成可展示的DR徽章
-
-#### Ronny（深圳）
-* :white_check_mark: [Vidgo AI](https://vidgo.ai)：图片、视频生成平台
-* :x: [Video Translator](https://videotranslator.io/)：短剧视频翻译工具
-* :white_check_mark: [Doculator](https://doculator.org/)：集文档，视频，图片翻译于一身的平台
-
-
-### 2025 年 9 月 14 号添加
-#### 饭特稀
-* :white_check_mark: [去掉图片里的文字](https://textremoverfromimage.com/)
-
-### 2025 年 9 月 12 号添加
-#### OD-Ice(深圳) - [Github](https://github.com/OD-Ice)
-* :white_check_mark: [Verbord](https://apps.apple.com/us/app/verbord-private-voice-diary/id6751261198)：录音笔记 iOS 应用(纯净、私密），帮你轻松记录生活点滴和创作灵感
-
-#### licon(深圳) - [Github]( https://github.com/licon)
-* :white_check_mark: [EZQuiz](https://ezquiz.online)：AI 智能实时测验，让你快速创建、分享并与观众通过实时互动测验进行互动
-* :white_check_mark: [EZ-translate](https://chromewebstore.google.com/detail/ahlibmildbganmkdhokbkfanpaakpgfd?utm_source=item-share-cb)：AI 浏览器翻译插件(免费)，支持页面内翻译，截图翻译，自动检测语言 - [开源仓库](https://github.com/licon/llm-translate)
-
-#### 饭特稀 - [Github](https://github.com/shineforever)
-* :white_check_mark: [SiteData](https://sitedata.dev)：网站流量查询与 SEO/Google Ads 情报工具，支持任意网站流量估算、Reverse AdSense 反查（发现同发布者的站点网络）、Google Ads 广告主与关键词分析、域名信息与 DR 查询，并提供 Chrome/Edge 浏览器插件 - [浏览器插件](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen)
-
-#### Ryan - [Github](https://github.com/Ryan10Yu)
-* :white_check_mark: [AI Song](https://aisong.tech/)：AI 生成歌曲、歌词的音乐网站
-
-### 2025 年 9 月 11 号添加
-#### ai77 - [网站](https://www.ai77.dev)
-* :white_check_mark: [AI 赛事通](https://www.competehub.dev/zh)：全球 AI 竞赛聚合平台，收录涵盖数据算法竞赛、AI 大模型竞赛、AI Agent 挑战赛、工程开发竞赛等多个领域，让你不会错过任何一场 AI 赛事，提升技能，赢取奖金
-
-#### Carys - [Github](https://github.com/Caron77ai)
-* :white_check_mark: [AIToolsss](https://www.aitoolsss.com/)：AI 工具导航，收录全球 AI 产品与应用
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

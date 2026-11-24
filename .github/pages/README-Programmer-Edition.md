@@ -16,6 +16,25 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 24 号添加
+
+#### sunerpy - [Github](https://github.com/sunerpy)
+* :white_check_mark: [pt-tools](https://firlab.app/pt-tools/)：PT 站点自动化工具，一个 Docker 容器完成 RSS 下载、刷流、IYUU 辅种、追剧入库、签到保号和数据统计，统一管理 qBittorrent 和 Transmission，内置 AI 助手，另有 Android App，开源免费 - [更多介绍](https://github.com/sunerpy/pt-tools)
+
+#### SparkStudio - [GitHub](https://github.com/huohuastudio)
+* :white_check_mark: [Keepbay](https://keepbay.app)：自部署的私有网盘，直接管理硬盘上已有的文件夹，只建索引、不导入；专业版用本地模型读取证件、合同和保修卡，提取到期日并提醒，按语义搜索文档和照片；支持 Linux 和 Docker，免费版是完整的网盘，专业版 ¥199 买断 - [在线演示](https://demo.keepbay.app)
+
+### 2026 年 11 月 23 号添加
+
+#### kue - [GitHub](https://github.com/kue02)
+* :white_check_mark: [Krss](https://github.com/kue02/Krss)：自托管 RSS 阅读器，单二进制 + SQLite，能装插件、按规则自动过滤、把 MCP 当订阅源，支持 AI 摘要翻译和多形态阅读 - [更多介绍](https://github.com/kue02/Krss#readme)
+
+#### bobbychina32747 - [GitHub](https://github.com/bobbychina32747)
+* :white_check_mark: [PS TwinRun](https://github.com/bobbychina32747/ps-twinrun/releases/tag/v0.1.0)：Windows 脚本迁移工具，同一脚本分别在 PowerShell 5.1 和 7 实跑，一条命令对照退出码、终端输出及文件字节 - [中文说明和报告截图](https://github.com/bobbychina32747/ps-twinrun/blob/main/README.zh-CN.md)
+
+#### Ethan - [GitHub](https://github.com/hAcKlyc)
+* :white_check_mark: [MyAgents](https://github.com/hAcKlyc/MyAgents)：开源桌面 Agent 工作台与任务中心，在 macOS 和 Windows 上为 Claude、Codex、DeepSeek Harness 配置各自的工作区，创建定时任务，也可把活派给自己的另一台在线电脑 - [安装包](https://github.com/hAcKlyc/MyAgents/releases/tag/v0.5.14)
+
 ### 2026 年 11 月 22 号添加
 
 #### Heming9 - [GitHub](https://github.com/Heming9)

@@ -6,6 +6,58 @@
 
 ---
 
+### 2025 年 12 月 6 号添加
+#### Victory - [Github](https://github.com/victorymakes) [Twitter](https://x.com/victorymakes)
+* :white_check_mark: [launchsaas.org](https://launchsaas.org)：最佳的 Next.js SaaS 模板，几个小时就能上线你的 SaaS 开始盈利
+
+### 2025 年 12 月 4 号添加
+#### Williams
+* :white_check_mark: [AI Excel Translator](https://aiexceltranslator.com/)：批量翻译 Excel 或 CSV 文档，支持 100+ 语言。
+
+#### PlayerYK
+* :white_check_mark: [SongGuru.AI](https://songguru.ai/)：使用 AI 生成音乐、写歌词还可以分离音乐中的乐器和人声
+
+#### ExtsBox
+* :white_check_mark: [PromptGather](https://promptgather.io/)：手工挑选的上千条视频、图片提示词，全部免费查看。可以直接复制使用，也可以用 AI 微调，生成图片、视频。
+
+#### jzhone
+* :x: [CheckAIBots](https://checkaibots.com)：CheckAIBots 能检测 40+ 个AI爬虫是否在爬你的网站，一键生成屏蔽代码（nginx/Apache/Cloudflare）并计算能省多少带宽费
+
+#### JL
+* :white_check_mark: [CSVtoAny](https://csvtoany.com/)：CSV 格式万能转换，CSV 格式转化一站式解决方案
+
+#### 超能刚哥 - [Github](https://github.com/margox)
+* :white_check_mark: [随身小记](https://smartnote.chat/)：随身记事AI助理，可记账、记事、记物，并以时间线形式展示；支持语音快速创建记录。
+
+### 2025 年 12 月 3 号添加
+#### wang1309(深圳) - [GIthub](https://github.com/wang1309)
+* :white_check_mark: [Story Generator](https://storiesgenerator.org/)：故事创作工具平台（免费），支持故事、标题、诗歌、情节生成和导出，支持用户创作概览、用户故事广场功能
+ 
+#### mingforpc(珠海) 
+* :x: [PaperPrint](http://paperprint.officedocprint.com/)：打印纸模版网站（免费），支持多种打印纸模版并且支持在线调整、预览、导出图片和PDF
+
+### 2025 年 12 月 2 号添加
+#### Selenium39(广州) - [Github](https://github.com/Selenium39)
+* :white_check_mark: [E-ink](https://e-ink.me/zh)：网页转电子书工具的平台（免费），支持将网页快速转换为多种电子书格式并在线阅读与编辑
+
+#### 星舟(深圳) - [Github](https://github.com/lzzzzl)
+* :white_check_mark: [ShowMeBestAI](https://showmebest.ai/)：最全面的 AI 工具目录，包含 3632+ 个 AI 工具。为您的业务、创意和生产力需求找到完美的 AI 工具
+* :white_check_mark: [DeepSong AI](https://deepsong.ai/)：AI 生成音乐和歌曲，原创且免版税
+
+### 2025 年 11 月 29 号添加
+#### lianhr12(深圳) - [Github](https://github.com/lianhr12)
+* :x: [AppIconGenerator](https://appicongenerator.org/)：浏览器端 AI 驱动的应用图标生成器，隐私优先，支持 iOS/Android/Chrome Store 资源一键生成 - [更多介绍](https://appicongenerator.org/)
+
+#### pekingzcc(北京) - [Github](https://github.com/zhangchenchen)
+* :white_check_mark: [sora2 api](https://www.sora2api.org/)： Sora2Api 通过统一 API 实现无水印的 Sora2视频生成, 低至 $0.1/ video
+
+#### Chaowen(深圳) - [Github](https://github.com/tanchaowen84)
+* :x: [VeriIA | Detector de ia](https://detectordeia.pro)：面向西语世界的 AI 检测和抄袭检测工具，支持西班牙语和英语文本的 AI 使用率评估与句子级高亮标注，帮助在「使用 AI」与「保持原创与透明」之间找到平衡。
+
+#### cg33(广州) - [Github](https://github.com/chenhg5)
+* :white_check_mark: [Modern Mermaid](https://modern-mermaid.live)：mermaid 代码编辑生成器（现代好看，拥有多种主题模板），帮你做更好看的文档
+* :x: [Trendhub](https://trendhub.wowwwow.cn/)：热点新闻过滤推送器，自定义过滤您的每天热点新闻，让你免受非重要热点新闻的干扰 - [Github](https://github.com/gotoailab/trendhub)
+
 ### 2025 年 11 月 28 号添加
 #### Rico(重庆) - [Github](https://github.com/rico-c)
 * :white_check_mark: [Voyagard](https://voyagard.com)：AI 学术论文编辑器，有 AI 编辑，一键查重降重，AI推荐文献索引等功能， 帮助你完成从选题调研，文献索引并管理， AI协助撰写等功能，帮助你轻松完成论文撰写
